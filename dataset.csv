@@ -1,0 +1,931 @@
+Company Name,Model Name,RAM,Front Camera,Back Camera (MP),Processor,Battery Capacity,Screen Size,Price,Units Sold,Success,Month
+Vivo,X5Max 16GB,2,5,13,Snapdragon 615,2300,5.5,"16,999",13.97,61,December
+Vivo,X3S 16GB,1,5,13,MediaTek MT6592,2000,5,"10,999",7.29,92,April
+Samsung,Galaxy C9 Pro 64GB,6,16,16,Snapdragon 653,4000,6,"32,990",29.13,99,May
+Samsung,Galaxy C5 32GB,4,8,16,Snapdragon 617,2600,5.2,"19,990",11.6,77,June
+Samsung,Galaxy Tab E 10.1 16GB,1.5,2,5,Spreadtrum SC8830,5000,10.1,"9,999",29.23,72,October
+Samsung,Galaxy Tab E 8.0 16GB,1.5,2,5,Qualcomm MSM8916,5000,8,"8,499",41.45,77,June
+Vivo,V3 Max 32GB,4,8,13,Snapdragon 652,3000,5.5,"13,999",36.48,94,August
+Apple,iPhone X 64GB,3,7,12,A11 Bionic,"2,716",5.8,"89,900",0.73,65,March
+Apple,iPhone X 256GB,3,7,12,A11 Bionic,"2,716",5.8,"99,900",23.12,75,April
+Samsung,Galaxy J7 Pro 64GB,3,13,13,Exynos 7870,3600,5.5,"18,990",48.85,77,October
+Samsung,Galaxy C7 Pro 64GB,4,16,16,Snapdragon 625,3300,5.7,"22,990",36.6,75,November
+OnePlus,OnePlus 5T Star Wars Edition 128GB,6,16,16,Snapdragon 835,3300,6.01,"34,999",40.69,85,November
+OnePlus,OnePlus 5 Special Edition 128GB,8,16,20,Snapdragon 835,3300,5.5,"36,999",14.31,79,February
+Vivo,X9 Plus 128GB,6,20,16,Snapdragon 653,4000,5.88,"24,999",40.49,90,October
+Vivo,V5 Plus 64GB,4,20,16,Snapdragon 625,3055,5.5,"22,999",26.26,97,September
+Vivo,Y66 32GB,3,16,13,Snapdragon 430,3000,5.5,"14,999",17.99,97,November
+Apple,iPhone XS 64GB,4,7,12,A12 Bionic,"2,658",5.8,"99,900",34.36,68,August
+Apple,iPhone XS 256GB,4,7,12,A12 Bionic,"2,658",5.8,"1,09,900",22.88,65,October
+Apple,iPhone XS 512GB,4,7,12,A12 Bionic,"2,658",5.8,"1,19,900",2.5,79,August
+Apple,iPhone XS Max 64GB,4,7,12,A12 Bionic,"3,174",6.5,"1,09,900",23.69,54,December
+Apple,iPhone XS Max 256GB,4,7,12,A12 Bionic,"3,174",6.5,"1,19,900",31.37,71,December
+Apple,iPhone XS Max 512GB,4,7,12,A12 Bionic,"3,174",6.5,"1,29,900",23.9,69,July
+Apple,iPhone XR 64GB,3,7,12,A12 Bionic,"2,942",6.1,"64,900",37.46,62,February
+Apple,iPhone XR 128GB,3,7,12,A12 Bionic,"2,942",6.1,"74,900",17.63,54,April
+Apple,iPhone XR 256GB,3,7,12,A12 Bionic,"2,942",6.1,"84,900",39.5,58,January
+Samsung,Galaxy J8 64GB,4,16,16,Snapdragon 450,3500,6,"18,990",24.09,85,February
+Samsung,Galaxy J6 GB,4,8,13,Snapdragon 425,3300,6,"15,999",0.31,99,May
+Samsung,Galaxy J4 16GB,2,5,13,Exynos 7570,3000,5.5,"9,990",49.98,96,February
+OnePlus,OnePlus 6T McLaren Edition 256GB,10,16,20,Snapdragon 845,3700,6.41,"50,999",0.53,79,June
+OnePlus,OnePlus 6 Special Edition 128GB,6,16,20,Snapdragon 845,3300,6.28,"37,999",6.45,98,June
+Vivo,Z3 64GB,6,12,16,Snapdragon 710,3315,6.3,"22,999",34.5,77,October
+Vivo,V9 64GB,4,24,16,Snapdragon 626,3260,6.3,"19,999",44.04,70,June
+Vivo,Y81 32GB,3,5,13,MediaTek Helio P22,3260,6.22,"12,999",19.52,91,August
+Vivo,Y95 64GB,4,20,13,Snapdragon 439,4030,6.22,"16,999",18.54,73,April
+Vivo,X21 128GB,6,12,12,Qualcomm Snapdragon 660,3200,6.28,"24,990",30.65,73,May
+Vivo,X21 64GB,4,12,12,Qualcomm Snapdragon 660,3200,6.28,"21,990",28.5,75,April
+Lenovo,Z5 Pro 64GB,6,16,16,Snapdragon 710,"3,350",6.39,"21,400",26.64,70,February
+Apple,iPhone 11 64GB,4,12,12,A13 Bionic,"3,110",6.1,"64,900",6.33,71,September
+Apple,iPhone 11 128GB,4,12,12,A13 Bionic,"3,110",6.1,"74,900",10.5,61,June
+Apple,iPhone 11 256GB,4,12,12,A13 Bionic,"3,110",6.1,"84,900",4.51,79,November
+Apple,iPhone 11 Pro 64GB,4,12,12,A13 Bionic,"3,046",5.8,"99,900",41.4,59,August
+Apple,iPhone 11 Pro 256GB,4,12,12,A13 Bionic,"3,046",5.8,"1,09,900",35.22,87,March
+Apple,iPhone 11 Pro 512GB,4,12,12,A13 Bionic,"3,046",5.8,"1,19,900",26.94,92,July
+Apple,iPhone 11 Pro Max 64GB,4,12,12,A13 Bionic,"3,969",6.5,"1,09,900",11.7,97,January
+Apple,iPhone 11 Pro Max 256GB,4,12,12,A13 Bionic,"3,969",6.5,"1,19,900",17.2,66,December
+Apple,iPhone 11 Pro Max 512GB,4,12,12,A13 Bionic,"3,969",6.5,"1,29,900",37.88,96,August
+Apple,iPad Mini 7.9-inch 64GB,3,7,8,A12 Bionic,"5,124",7.9,"39,900",21.41,67,June
+Apple,iPad Mini 7.9-inch 256GB,3,7,8,A12 Bionic,"5,124",7.9,"49,900",17.63,80,February
+Samsung,Galaxy Note 10+ 256GB,12,10,12,Exynos 9825,4300,6.8,"74,999",42.89,90,January
+Samsung,Galaxy Note 10+ 512GB,12,10,12,Exynos 9825,4300,6.8,"84,999",36.96,73,April
+Samsung,Galaxy Note 10 256GB,8,10,12,Exynos 9825,3500,6.3,"64,999",17.31,96,January
+Samsung,Galaxy Note 10 128GB,8,10,12,Exynos 9825,3500,6.3,"59,999",24.23,95,August
+OnePlus,OnePlus 7 Pro 5G 256GB,12,16,48,Snapdragon 855,4000,6.67,"59,999",1.37,82,July
+OnePlus,OnePlus 7T Pro 5G McLaren Edition 256GB,12,16,48,Snapdragon 855,4085,6.67,"69,999",47.54,70,May
+Vivo,V17 Pro 128GB,8,32,48,Qualcomm Snapdragon 675,4100,6.44,"27,990",41.01,58,July
+Vivo,V17 Pro 256GB,8,32,48,Qualcomm Snapdragon 675,4100,6.44,"33,990",23.42,94,November
+Vivo,S1 Pro 128GB,6,32,48,MediaTek Helio P65,4500,6.38,"19,990",19,81,June
+Vivo,S1 Pro 256GB,6,32,48,MediaTek Helio P65,4500,6.38,"24,990",45.09,52,April
+Vivo,Y11 32GB,3,8,13,Qualcomm Snapdragon 439,5000,6.35,"10,999",31.13,69,January
+Vivo,Y11 64GB,3,8,13,Qualcomm Snapdragon 439,5000,6.35,"13,490",21.81,72,December
+Vivo,V15 128GB,6,32,48,MediaTek Helio P70,4000,6.53,"22,990",34.32,66,April
+Vivo,V15 256GB,6,32,48,MediaTek Helio P70,4000,6.53,"26,990",17.94,87,February
+Vivo,X27 Pro 128GB,8,32,48,Qualcomm Snapdragon 710,4000,6.39,"35,990",3.77,99,October
+Vivo,X27 Pro 256GB,8,32,48,Qualcomm Snapdragon 710,4000,6.39,"39,990",0.12,89,February
+Vivo,Z1 Pro 64GB,4,16,16,Qualcomm Snapdragon 712,4500,6.53,"18,990",29.18,55,October
+Vivo,Z1 Pro 128GB,6,16,16,Qualcomm Snapdragon 712,4500,6.53,"22,990",13.72,57,January
+Vivo,V15 Pro 128GB,6,32,48,Qualcomm Snapdragon 675,3700,6.39,"25,999",43.16,89,January
+Vivo,V15 Pro 256GB,6,32,48,Qualcomm Snapdragon 675,3700,6.39,"29,999",17.03,74,May
+Vivo,X30 Pro 128GB,8,32,64,Qualcomm Snapdragon 855,4200,6.44,"47,999",34.98,80,August
+Vivo,X30 Pro 256GB,8,32,64,Qualcomm Snapdragon 855,4200,6.44,"54,999",35.21,66,June
+Oppo,Reno3 5G 128GB,8,32,64,Dimensity 1000L,"4,025",6.4,"22,999",47.14,55,August
+Oppo,Reno3 5G 256GB,12,32,64,Dimensity 1000L,"4,025",6.4,"26,999",16.85,78,January
+Oppo,Reno3 Pro 5G 256GB,12,32,48,Snapdragon 765G,"4,025",6.5,"34,999",23.88,64,February
+Lenovo,K10 Plus 64GB,4,16,13,Snapdragon 632,"4,050",6.22,"10,999",2.57,72,September
+Lenovo,A6 Note 32GB,3,5,13,Helio P22,"4,000",6.09,"9,999",35.51,54,June
+Lenovo,K10 Note 64GB,4,16,16,Snapdragon 710,"4,050",6.3,"13,999",49.55,57,April
+Lenovo,K10 Note 128GB,6,16,16,Snapdragon 710,"4,050",6.3,"15,999",8.39,79,August
+Lenovo,Z6 Pro 128GB,6,32,48,Snapdragon 855,"4,000",6.39,"39,999",44.26,95,December
+Lenovo,Z6 Pro 256GB,8,32,48,Snapdragon 855,"4,000",6.39,"44,999",41.03,81,May
+Google,Pixel 3a 64GB,4,8,12.2,Snapdragon 670,"3,000",5.6,"39,999",38.82,68,October
+Google,Pixel 3a XL 64GB,4,8,12.2,Snapdragon 670,"3,700",6,"44,999",40.17,58,April
+Google,Pixel 4 64GB,6,8,12.2,Snapdragon 855,"2,800",5.7,"59,999",14.53,98,January
+Google,Pixel 4 XL 64GB,6,8,12.2,Snapdragon 855,"3,700",6.3,"69,999",0.5,97,October
+Apple,iPhone 12 mini 64GB,4,12,12,A14 Bionic,"2,227",5.4,"69,900",7.6,99,September
+Apple,iPhone 12 mini 128GB,4,12,12,A14 Bionic,"2,227",5.4,"74,900",15.09,77,May
+Apple,iPhone 12 mini 256GB,4,12,12,A14 Bionic,"2,227",5.4,"84,900",35.7,97,October
+Apple,iPhone 12 64GB,4,12,12,A14 Bionic,"2,815",6.1,"74,900",30.2,70,December
+Apple,iPhone 12 128GB,4,12,12,A14 Bionic,"2,815",6.1,"84,900",40.97,85,November
+Apple,iPhone 12 256GB,4,12,12,A14 Bionic,"2,815",6.1,"94,900",38.62,76,April
+Apple,iPhone 12 Pro 128GB,6,12,12,A14 Bionic,"2,815",6.1,"1,19,900",32.41,78,April
+Apple,iPhone 12 Pro 256GB,6,12,12,A14 Bionic,"2,815",6.1,"1,29,900",8.02,78,November
+Apple,iPhone 12 Pro 512GB,6,12,12,A14 Bionic,"2,815",6.1,"1,39,900",48.34,73,May
+Apple,iPhone 12 Pro Max 128GB,6,12,12,A14 Bionic,"3,687",6.7,"1,29,900",1.92,93,February
+Apple,iPhone 12 Pro Max 256GB,6,12,12,A14 Bionic,"3,687",6.7,"1,39,900",13.32,59,November
+Apple,iPhone 12 Pro Max 512GB,6,12,12,A14 Bionic,"3,687",6.7,"1,49,900",38.58,72,June
+Apple,iPad Air 10.9-inch 64GB,4,12,12,A14 Bionic,"7,608",10.9,"54,900",48.09,70,June
+Apple,iPad Air 10.9-inch 256GB,4,12,12,A14 Bionic,"7,608",10.9,"64,900",16,55,January
+Apple,iPad 10.2-inch 32GB,3,12,8,A13 Bionic,"8,612",10.2,"29,900",2.05,65,November
+Apple,iPad 10.2-inch 128GB,3,12,8,A13 Bionic,"8,612",10.2,"39,900",31.11,75,January
+Apple,iPad Pro 11-inch 128GB,4,7,12,A12Z Bionic,"7,812",11,"71,900",40.83,76,April
+Apple,iPad Pro 11-inch 256GB,4,7,12,A12Z Bionic,"7,812",11,"89,900",38.48,82,December
+Apple,iPad Pro 11-inch 512GB,6,7,12,A12Z Bionic,"7,812",11,"1,09,900",45.92,60,May
+Apple,iPad Pro 12.9-inch 128GB,6,7,12,A12Z Bionic,"9,720",12.9,"94,900",37.77,82,December
+Apple,iPad Pro 12.9-inch 256GB,6,7,12,A12Z Bionic,"9,720",12.9,"1,09,900",16.25,68,February
+Apple,iPad Pro 12.9-inch 512GB,6,7,12,A12Z Bionic,"9,720",12.9,"1,19,900",3.06,60,July
+Apple,iPad Pro 13-inch 128GB,6,7,12,A12Z Bionic,"10,307",13,"1,19,900",14.3,62,August
+Apple,iPad Pro 13-inch 256GB,6,7,12,A12Z Bionic,"10,307",13,"1,39,900",40.45,66,March
+Apple,iPad Pro 13-inch 512GB,6,7,12,A12Z Bionic,"10,307",13,"1,59,900",28.9,55,April
+Apple,iPad Pro 13-inch 1TB,6,7,12,A12Z Bionic,"10,307",13,"1,79,900",14.43,95,May
+Apple,iPad Pro 13-inch 2TB,6,7,12,A12Z Bionic,"10,307",13,"1,99,900",23.48,89,October
+Samsung,Galaxy Note 20 Ultra 128GB,12,10,108,Exynos 990,4500,6.9,"99,999",48.58,57,October
+Samsung,Galaxy Note 20 Ultra 256GB,12,10,108,Exynos 990,4500,6.9,"  1,04,999",18.86,78,March
+Samsung,Galaxy Note 20 128GB,8,10,108,Exynos 990,4300,6.7,"77,999",31.1,58,December
+Samsung,Galaxy Note 20 256GB,8,10,108,Exynos 990,4300,6.7,"89,999",13.74,74,July
+Samsung,Galaxy Xcover 5 64GB,4,5,16,Exynos 850,3000,5.3,"17,499",30.52,72,November
+Samsung,Galaxy W21 5G 256GB,12,10,108,Snapdragon 888,4500,7.6,"89,999",10.89,67,March
+Samsung,Galaxy Tab Active 3 64GB,4,5,13,Exynos 9810,5050,8,"44,999",14.69,59,December
+OnePlus,OnePlus Nord N100 64GB,4,8,13,Qualcomm Snapdragon 460,5000,6.52,"12,999",4.14,89,September
+OnePlus,OnePlus 8T Cyberpunk 2077 Edition 256GB,12,16,48,Snapdragon 865,4500,6.55,"45,999",24.06,81,September
+OnePlus,OnePlus 8T 256GB,12,16,48,Snapdragon 865,4500,6.55,"42,999",16.07,94,April
+OnePlus,OnePlus 8 Pro 256GB,12,16,48,Snapdragon 865,4510,6.78,"54,999",26.24,92,April
+OnePlus,OnePlus 8 128GB,8,16,48,Snapdragon 865,4300,6.55,"41,999",36.66,85,November
+OnePlus,OnePlus Nord 1 128GB,6,16,48,Snapdragon 765G,4115,6.44,"22,999",0.48,97,August
+OnePlus,OnePlus Nord N100 5G 64GB,4,8,13,Qualcomm Snapdragon 460,5000,6.52,"12,999",15.32,97,May
+OnePlus,OnePlus Nord N10 5G 128GB,6,16,64,Qualcomm Snapdragon 690,4300,6.49,"19,999",38.36,57,April
+OnePlus,OnePlus 8R 128GB,8,16,48,Snapdragon 865,4300,6.55,"41,999",27.88,63,July
+OnePlus,OnePlus 7R 128GB,6,16,48,Snapdragon 855,3700,6.41,"38,999",13.8,79,April
+OnePlus,OnePlus Nord X 128GB,8,32,64,Snapdragon 765G,4000,6.44,"24,999",34.74,89,August
+OnePlus,OnePlus 8 Pro McLaren Edition 256GB,12,16,48,Snapdragon 865,4510,6.78,"59,999",19.69,63,December
+OnePlus,OnePlus 8T Cyberpunk Edition 256GB,12,16,48,Snapdragon 865,4500,6.55,"58,999",24.91,81,March
+Vivo,V19 128GB,8,32,48,Qualcomm Snapdragon 712,4500,6.44,"27,990",27.15,63,September
+Vivo,V19 256GB,8,32,48,Qualcomm Snapdragon 712,4500,6.44,"31,990",12.53,57,November
+Vivo,Y12s 64GB,3,8,13,MediaTek Helio P35,5000,6.51,"10,990",26.98,71,November
+Vivo,Y12s 128GB,4,8,13,MediaTek Helio P35,5000,6.51,"13,990",37.82,89,February
+Vivo,Y30 128GB,4,8,13,MediaTek Helio P35,5000,6.47,"14,990",26.06,61,November
+Vivo,Y30 64GB,3,8,13,MediaTek Helio P35,5000,6.47,"11,990",28.4,55,February
+Vivo,V20 Pro 128GB,8,44,64,Qualcomm Snapdragon 765G,4000,6.44,"25,999",28.35,52,December
+Vivo,V20 Pro 256GB,8,44,64,Qualcomm Snapdragon 765G,4000,6.44,"29,999",11.95,99,January
+Oppo,Reno5 5G 128GB,8,32,64,Snapdragon 765G,"4,300",6.43,"26,999",29.54,69,September
+Oppo,Reno5 5G 256GB,12,32,64,Snapdragon 765G,"4,300",6.43,"29,999",2.47,73,September
+Oppo,Reno5 Pro 5G 128GB,8,32,64,Dimensity 1000+,"4,350",6.55,"32,999",46.81,98,December
+Oppo,Reno5 Pro 5G 256GB,12,32,64,Dimensity 1000+,"4,350",6.55,"36,999",29.8,65,September
+Oppo,Reno5 Pro+ 5G 256GB,12,32,50,Snapdragon 865,"4,500",6.55,"44,999",25.31,93,November
+Oppo,Reno4 5G 128GB,8,32,48,Snapdragon 765G,"4,000",6.43,"24,999",3,74,November
+Oppo,Reno4 5G 256GB,8,32,48,Snapdragon 765G,"4,000",6.43,"26,999",25.88,72,December
+Oppo,Reno4 Pro 5G 256GB,12,32,48,Snapdragon 765G,"4,000",6.55,"39,999",37.14,53,November
+Oppo,A53 5G 128GB,4,8,16,MediaTek Dimensity 720,"4,040",6.5,"12,999",9.67,69,April
+Oppo,A52 5G 128GB,4,8,12,MediaTek Dimensity 720,"4,000",6.5,"11,999",18.78,90,November
+Oppo,A51 5G 128GB,4,8,13,MediaTek Dimensity 700,"4,000",6.5,"10,999",33.27,87,April
+Oppo,A50 5G 128GB,4,8,13,MediaTek Dimensity 700,"4,000",6.5,"9,999",47.77,89,July
+Oppo,A49 5G 128GB,4,8,13,MediaTek Dimensity 700,"4,000",6.5,"8,999",21.89,84,May
+Oppo,K7x 128GB,6,16,48,MediaTek Dimensity 720,"5,000",6.5,"14,999",12.89,74,June
+Oppo,K7 5G 128GB,8,32,48,Qualcomm Snapdragon 765G,"4,025",6.4,"19,999",38.92,57,December
+Oppo,K7 5G 256GB,8,32,48,Qualcomm Snapdragon 765G,"4,025",6.4,"21,999",16.57,65,March
+Oppo,K7x 128GB,6,16,48,MediaTek Dimensity 720,"5,000",6.5,"14,999",35.03,76,May
+Oppo,K7 5G 128GB,8,32,48,Qualcomm Snapdragon 765G,"4,025",6.4,"19,999",15.74,53,January
+Google,Pixel 4a 128GB,6,8,12.2,Snapdragon 730G,"3,140",5.8,"31,999",27.24,69,March
+Google,Pixel 4a 5G 128GB,6,8,12.2,Snapdragon 765G,"3,885",6.2,"37,999",37.21,86,January
+Google,Pixel 5 128GB,8,8,12.2,Snapdragon 765G,"4,080",6,"49,999",26.87,60,February
+Infinix,Hot 10 Lite 64GB,3,8,13,MediaTek Helio A25,"5,000",6.6,"7,999",33.19,71,June
+Infinix,Smart HD 32GB,2,5,8,MediaTek Helio A20,"5,000",6.1,"5,999",26.76,58,April
+Infinix,Note 8i 128GB,6,8,48,MediaTek Helio G80,"5,200",6.78,"12,999",26.92,80,June
+Infinix,Hot 10 Lite 64GB,3,8,13,MediaTek Helio A25,"5,000",6.6,"7,999",2.37,84,March
+Infinix,Note 8 128GB,6,16,64,MediaTek Helio G80,"5,200",6.95,"15,999",28.31,83,August
+Infinix,Zero 8i 128GB,8,16,48,MediaTek Helio G90T,"4,500",6.85,"17,999",6.07,51,April
+Infinix,Hot 10 128GB,4,8,16,MediaTek Helio G70,"5,200",6.78,"10,999",49.88,77,October
+Infinix,Zero 8 128GB,8,48,64,MediaTek Helio G90T,"4,500",6.85,"19,999",41.3,91,February
+Infinix,Smart 5 64GB,3,8,13,MediaTek Helio A20,"5,000",6.6,"7,499",22.68,85,January
+Honor,9X Lite,4,8,48,Kirin 710F,"3,750",6.5,"15,999",3.5,99,July
+Honor,30,8,32,40,Kirin 985 5G,"4,000",6.53,"29,999",34.04,87,November
+Honor,30 Pro,8,32,50,Kirin 990 5G,"4,000",6.57,"39,999",7.39,71,July
+Honor,30 Pro+,12,32,50,Kirin 990 5G,"4,000",6.57,"45,999",31.54,62,January
+Honor,30S,6,16,64,Kirin 820 5G,"4,000",6.5,"22,999",7.4,61,July
+Honor,X10,6,16,40,Kirin 820 5G,"4,300",6.63,"19,999",36.56,89,February
+Honor,X10 Max,8,8,48,MediaTek Dimensity 800,"5,000",7.09,"25,999",24.48,90,November
+Honor,Play 4,6,16,64,MediaTek Dimensity 800,"4,300",6.81,"21,999",13.9,85,August
+Honor,Play 4 Pro,8,32,40,Kirin 990 5G,"4,200",6.57,"29,999",35.34,69,September
+Honor,10X Lite,4,8,48,Kirin 710A,"5,000",6.67,"13,999",41.14,99,September
+Honor,Pad 6,4,2,5,Qualcomm Snapdragon 662,"5,100",10.1,"17,999",29.64,62,March
+Honor,Pad X6,3,2,5,MediaTek MT8768T,"5,100",9.7,"14,999",20.19,84,February
+POCO,F2 Pro 128GB,6,20,64,Snapdragon 865,4700,6.67,"37,999",25.66,68,July
+POCO,M2 Pro 64GB,4,16,48,Snapdragon 720G,5000,6.67,"13,999",39.52,91,March
+POCO,X3 NFC 128GB,6,20,64,Snapdragon 732G,5160,6.67,"16,999",37.09,74,April
+POCO,M3 64GB,4,8,48,Snapdragon 662,6000,6.53,"10,999",20.33,77,July
+Apple,iPhone 13 mini 128GB,4,12,12,A15 Bionic,"2,438",5.4,"69,900",17.97,83,September
+Apple,iPhone 13 mini 256GB,4,12,12,A15 Bionic,"2,438",5.4,"74,900",3.67,94,December
+Apple,iPhone 13 mini 512GB,4,12,12,A15 Bionic,"2,438",5.4,"84,900",1.87,58,April
+Apple,iPhone 13 128GB,4,12,12,A15 Bionic,"3,240",6.1,"74,900",8.83,67,July
+Apple,iPhone 13 256GB,4,12,12,A15 Bionic,"3,240",6.1,"84,900",37.93,91,January
+Apple,iPhone 13 512GB,4,12,12,A15 Bionic,"3,240",6.1,"94,900",28.24,63,February
+Apple,iPhone 13 Pro 128GB,6,12,12,A15 Bionic,"3,095",6.1,"1,19,900",48.64,51,May
+Apple,iPhone 13 Pro 256GB,6,12,12,A15 Bionic,"3,095",6.1,"1,29,900",13.86,67,October
+Apple,iPhone 13 Pro 512GB,6,12,12,A15 Bionic,"3,095",6.1,"1,39,900",39.98,80,August
+Apple,iPhone 13 Pro Max 128GB,6,12,12,A15 Bionic,"4,352",6.7,"1,29,900",31.61,67,December
+Apple,iPhone 13 Pro Max 256GB,6,12,12,A15 Bionic,"4,352",6.7,"1,39,900",8.94,95,November
+Apple,iPhone 13 Pro Max 512GB,6,12,12,A15 Bionic,"4,352",6.7,"1,49,900",14.18,58,June
+Samsung,Galaxy W22 5G 256GB,12,10,108,Snapdragon 888,4500,7.6,"99,999",26.51,73,April
+Samsung,Galaxy Tab A7 Lite 32GB,3,2,8,MediaTek Helio P22T,5100,8.7,"11,999",34.62,78,September
+OnePlus,OnePlus 9 Pro 256GB,12,16,48,Snapdragon 888,4500,6.7,"59,999",6.24,74,September
+OnePlus,OnePlus 9 128GB,8,16,48,Snapdragon 888,4500,6.55,"39,999",15.64,54,October
+OnePlus,OnePlus Nord 2 128GB,8,32,50,MediaTek Dimensity 1200-AI,4500,6.43,"27,999",2.86,51,February
+OnePlus,OnePlus Nord N200 64GB,4,16,13,Snapdragon 480,5000,6.49,"15,999",9.73,97,September
+OnePlus,OnePlus 9T 128GB,8,16,48,Snapdragon 888,4500,6.55,"49,999",17.12,72,November
+OnePlus,OnePlus 9R 5G 128GB,8,16,48,Snapdragon 870,4500,6.55,"39,999",0.96,64,March
+OnePlus,OnePlus Nord CE 5G 128GB,6,16,64,Snapdragon 750G,4500,6.43,"24,999",6.61,80,October
+OnePlus,OnePlus Nord 2 5G 128GB,8,32,50,MediaTek Dimensity 1200-AI,4500,6.43,"27,999",3.28,90,April
+Vivo,V23e 128GB,8,50,64,MediaTek Helio G96,4050,6.44,"20,999",13.2,76,July
+Vivo,V23e 256GB,8,50,64,MediaTek Helio G96,4050,6.44,"24,999",1.16,95,January
+Vivo,Y33s 128GB,8,16,50,MediaTek Helio G80,5000,6.58,"17,999",36.24,86,September
+Vivo,Y33s 64GB,4,16,50,MediaTek Helio G80,5000,6.58,"14,999",48.57,86,February
+Vivo,X60 Pro 256GB,12,32,48,Qualcomm Snapdragon 870,4200,6.56,"44,999",25.66,63,April
+Vivo,X60 Pro 512GB,12,32,48,Qualcomm Snapdragon 870,4200,6.56,"49,999",46.78,88,January
+Vivo,Y75 5G 128GB,8,16,50,MediaTek Dimensity 700,5000,6.58,"21,999",40.85,97,July
+Vivo,Y75 5G 256GB,8,16,50,MediaTek Dimensity 700,5000,6.58,"25,999",8.71,58,September
+Vivo,Y53s 128GB,6,16,64,MediaTek Helio G80,5000,6.58,"16,999",48.25,54,March
+Vivo,Y53s 64GB,6,16,64,MediaTek Helio G80,5000,6.58,"13,999",27.83,72,July
+Vivo,X70 Pro 128GB,8,32,50,MediaTek Dimensity 1200,4450,6.56,"39,999",31.58,91,August
+Vivo,X70 Pro 256GB,8,32,50,MediaTek Dimensity 1200,4450,6.56,"44,999",35.3,94,December
+Vivo,Y21 128GB,4,8,13,MediaTek Helio P35,5000,6.51,"12,999",36.84,74,September
+Vivo,Y21 64GB,4,8,13,MediaTek Helio P35,5000,6.51,"9,999",41.93,58,November
+Oppo,Reno7 5G 128GB,8,32,64,Dimensity 900,"4,500",6.4,"28,999",16.59,52,September
+Oppo,Reno7 5G 256GB,12,32,64,Dimensity 900,"4,500",6.4,"32,999",41.48,63,January
+Oppo,Reno7 Pro 5G 256GB,12,32,50,Dimensity 1200,"4,500",6.55,"39,999",9.17,69,April
+Oppo,Reno6 5G 128GB,8,32,64,Dimensity 900,"4,300",6.43,"29,999",16.69,62,October
+Oppo,Reno6 5G 256GB,12,32,64,Dimensity 900,"4,300",6.43,"32,999",15.93,59,January
+Oppo,Reno6 Pro 5G 128GB,8,32,64,Dimensity 1200,"4,500",6.55,"39,999",14.19,89,November
+Oppo,Reno6 Pro 5G 256GB,12,32,64,Dimensity 1200,"4,500",6.55,"44,999",10.39,90,June
+Oppo,Reno6 Pro+ 5G 256GB,12,32,50,Snapdragon 870,"4,500",6.55,"49,999",43.96,61,May
+Oppo,A56 5G 128GB,6,8,13,MediaTek Dimensity 700,"5,000",6.5,"14,999",18.65,85,July
+Oppo,A55 5G 128GB,6,8,13,MediaTek Dimensity 700,"5,000",6.5,"13,999",20.55,72,February
+Oppo,A54 5G 128GB,6,16,48,Qualcomm Snapdragon 480,"5,000",6.5,"15,999",1.97,77,February
+Oppo,K9x 128GB,6,16,64,MediaTek Dimensity 810,"5,000",6.5,"15,999",4.3,89,April
+Oppo,K9x 256GB,8,16,64,MediaTek Dimensity 810,"5,000",6.5,"17,999",42.61,56,October
+Oppo,K9 Pro 5G 128GB,8,16,64,MediaTek Dimensity 1200,"4,500",6.43,"24,999",27.47,80,April
+Oppo,K9 Pro 5G 256GB,12,16,64,MediaTek Dimensity 1200,"4,500",6.43,"27,999",32.99,89,August
+Oppo,K9 5G 128GB,8,32,64,Qualcomm Snapdragon 768G,"4,300",6.43,"22,999",23.54,96,August
+Oppo,K9 5G 256GB,8,32,64,Qualcomm Snapdragon 768G,"4,300",6.43,"24,999",25.82,68,August
+Oppo,K9x 128GB,6,16,64,MediaTek Dimensity 810,"5,000",6.5,"15,999",27.32,75,March
+Oppo,K9x 256GB,8,16,64,MediaTek Dimensity 810,"5,000",6.5,"17,999",34.33,99,June
+Oppo,K9 Pro 5G 128GB,8,16,64,MediaTek Dimensity 1200,"4,500",6.43,"24,999",47.55,84,July
+Oppo,K9 Pro 5G 256GB,12,16,64,MediaTek Dimensity 1200,"4,500",6.43,"27,999",16.9,76,July
+Oppo,K9 5G 128GB,8,32,64,Qualcomm Snapdragon 768G,"4,300",6.43,"22,999",32.72,55,October
+Oppo,K9 5G 256GB,8,32,64,Qualcomm Snapdragon 768G,"4,300",6.43,"24,999",8.91,55,June
+Realme,Pad 64GB,4,8,8,MediaTek Helio G80,"7,100",10.4,"19,999",3.61,83,July
+Realme,Pad 128GB,6,8,8,MediaTek Helio G80,"7,100",10.4,"22,999",10.2,54,August
+Lenovo,K13 Pro 128GB,6,16,64,Snapdragon 662,"5,000",6.8,"14,999",28.93,86,March
+Lenovo,K13 32GB,2,5,13,Unisoc SC9863A,"5,000",6.52,"7,499",11.48,85,November
+Lenovo,K13 Note 64GB,4,8,48,Snapdragon 460,"5,000",6.5,"11,999",4.19,61,July
+Huawei,P50,8,13,50,Snapdragon 888 4G,"4,100",6.5,"59,999",49.15,57,September
+Huawei,P50 Pro,8,13,50,Snapdragon 888 4G,"4,360",6.6,"79,999",4.23,73,February
+Huawei,P50 Pocket,8,10.7,40,Snapdragon 888 4G,"4,000",6.9,"1,29,999",34.57,61,January
+Huawei,Mate 40E,8,13,64,Kirin 990E 5G,"4,200",6.5,"69,999",5.1,54,September
+Huawei,Mate X2,8,16,50,Kirin 9000 5G,"4,500",8,"2,49,999",38.25,59,July
+Huawei,Nova 9,8,32,50,Snapdragon 778G 4G,"4,300",6.57,"37,999",3.14,76,June
+Huawei,Nova 9 Pro,8,32,50,Snapdragon 778G 4G,"4,000",6.72,"44,999",20.42,61,February
+Nokia,G20 64GB,4,8,48,MediaTek G35,"5,050",6.52,"12,499",31.95,67,April
+Nokia,G20 128GB,4,8,48,MediaTek G35,"5,050",6.52,"13,999",36.75,68,October
+Google,Pixel 5a 128GB,6,8,12.2,Snapdragon 765G,"4,680",6.34,"42,999",48.61,51,March
+Google,Pixel 6 128GB,8,8,50,Google Tensor,"4,614",6.4,"59,999",35.28,75,February
+Google,Pixel 6 Pro 256GB,12,11.1,50,Google Tensor,"5,003",6.71,"79,999",10.67,82,October
+Infinix,Hot 10T 128GB,4,8,48,MediaTek Helio G70,"5,000",6.82,"10,499",1.61,74,December
+Infinix,Hot 10S 128GB,6,8,48,MediaTek Helio G85,"6,000",6.82,"11,999",41.27,51,March
+Infinix,Hot 10S NFC 128GB,6,8,48,MediaTek Helio G85,"6,000",6.82,"12,499",31.5,52,November
+Infinix,Hot 10 Play 64GB,4,8,13,MediaTek Helio G25,"6,000",6.82,"9,499",18.18,52,October
+Infinix,Hot 11 128GB,4,8,13,MediaTek Helio G70,"5,200",6.6,"10,999",30.94,58,March
+Infinix,Hot 11 Play 128GB,4,8,13,MediaTek Helio G35,"6,000",6.82,"11,499",33.5,66,April
+Infinix,Hot 11s 128GB,6,8,50,MediaTek Helio G88,"5,000",6.78,"12,999",10.2,98,November
+Honor,V40,8,16,50,MediaTek Dimensity 1000+,"4,000",6.72,"37,999",21.76,97,May
+Honor,50,8,32,108,Qualcomm Snapdragon 778G,"4,300",6.57,"37,999",30.21,98,February
+Honor,50 Pro,8,32,108,Qualcomm Snapdragon 778G,"4,000",6.72,"44,999",11.39,61,July
+Honor,50 SE,8,16,108,MediaTek Dimensity 900,"4,000",6.78,"29,999",39.04,89,February
+Honor,X20,6,16,64,MediaTek Dimensity 900,"4,300",6.67,"25,999",11.92,78,January
+Honor,X20 SE,6,16,64,MediaTek Dimensity 700,"4,000",6.6,"22,999",18.75,93,April
+Honor,Play 5,8,16,64,MediaTek Dimensity 800U,"3,800",6.53,"19,999",3.94,66,October
+Honor,Play 5T,6,8,13,Unisoc T610,"5,000",6.5,"14,999",23.76,72,October
+Honor,Magic3,8,13,50,Qualcomm Snapdragon 888,"4,600",6.76,"64,999",48.82,96,May
+Honor,Magic3 Pro,8,13,50,Qualcomm Snapdragon 888+,"4,600",6.76,"74,999",20.28,76,June
+Honor,Magic3 Pro+,12,13,50,Qualcomm Snapdragon 888+,"4,600",6.76,"84,999",44.36,73,September
+Honor,60,8,32,108,Qualcomm Snapdragon 778G,"4,800",6.67,"41,999",42.82,55,November
+Honor,60 Pro,8,50,108,Qualcomm Snapdragon 778G+,"4,800",6.78,"49,999",6.77,88,January
+Honor,60 SE,8,16,64,MediaTek Dimensity 900,"4,300",6.67,"29,999",36.82,65,February
+Honor,X30,6,16,48,Qualcomm Snapdragon 695,"4,800",6.81,"27,999",39.19,68,April
+Honor,X30i,6,16,48,MediaTek Dimensity 810,"4,000",6.7,"22,999",38.84,64,May
+Honor,X30 Max,8,8,64,MediaTek Dimensity 900,"5,000",7.09,"35,999",19.84,90,August
+Honor,Pad 7,4,2,5,MediaTek Helio G80,"5,100",10.1,"19,999",30.43,80,December
+Honor,Tablet V7,6,8,13,MediaTek Dimensity 800,"7,250",10.4,"34,999",0.69,68,December
+Honor,Tablet V7 Pro,8,8,13,MediaTek Dimensity 1300T,"7,250",11,"44,999",36.64,85,March
+POCO,F3 128GB,6,20,48,Snapdragon 870,4520,6.67,"29,999",7.87,79,June
+POCO,X3 Pro 128GB,6,20,48,Snapdragon 860,5160,6.67,"18,999",30.24,93,April
+POCO,M3 Pro 5G 64GB,4,8,48,MediaTek Dimensity 700,5000,6.5,"13,999",47.48,98,March
+POCO,F3 GT 128GB,6,16,64,MediaTek Dimensity 1200,5065,6.67,"25,999",13.24,66,December
+POCO,X3 GT 128GB,6,16,64,MediaTek Dimensity 1100,5000,6.6,"21,999",15.4,61,September
+POCO,M4 Pro 5G 128GB,4,16,50,MediaTek Dimensity 810,5000,6.6,"14,999",6.56,54,July
+Apple,iPhone 14 128GB,6,12,12,A15 Bionic,"3,200",6.1,"69,999",26.6,87,February
+Apple,iPhone 14 256GB,6,12,12,A15 Bionic,"3,200",6.1,"74,999",4.11,98,October
+Apple,iPhone 14 512GB,6,12,12,A15 Bionic,"3,200",6.1,"84,999",39.84,75,March
+Apple,iPhone 14 Plus 128GB,6,12,12,A15 Bionic,"4,325",6.7,"79,999",17.34,65,November
+Apple,iPhone 14 Plus 256GB,6,12,12,A15 Bionic,"4,325",6.7,"84,999",3.41,95,August
+Apple,iPhone 14 Plus 512GB,6,12,12,A15 Bionic,"4,325",6.7,"94,999",22.57,86,September
+Apple,iPhone 14 Pro 128GB,6,12,48,A16 Bionic,"4,200",6.1,"1,09,999",11.75,65,May
+Apple,iPhone 14 Pro 256GB,8,12,48,A16 Bionic,"4,200",6.1,"1,19,999",6.85,72,July
+Apple,iPhone 14 Pro 512GB,8,12,48,A16 Bionic,"4,200",6.1,"1,34,999",31.64,84,June
+Apple,iPhone 14 Pro Max 128GB,6,12,48,A16 Bionic,"4,500",6.7,"1,24,999",40.03,76,June
+Apple,iPhone 14 Pro Max 256GB,8,12,48,A16 Bionic,"4,500",6.7,"1,34,999",27.13,93,November
+Apple,iPhone 14 Pro Max 512GB,8,12,48,A16 Bionic,"4,500",6.7,"1,44,999",18.53,67,March
+Samsung,Galaxy S22 Ultra 128GB,12,10,108,Exynos 2200,5000,6.8,"94,900",2.69,61,August
+Samsung,Galaxy S22 Ultra 256GB,12,10,108,Exynos 2200,5000,6.8,"1,04,900",46.23,83,July
+Samsung,Galaxy S22+ 128GB,8,10,50,Exynos 2200,4500,6.6,"79,900",15.53,86,September
+Samsung,Galaxy S22+ 256GB,8,10,50,Exynos 2200,4500,6.6,"89,900",41.01,91,May
+Samsung,Galaxy S22 128GB,8,10,50,Exynos 2200,3800,6.1,"69,900",29.61,69,December
+Samsung,Galaxy S22 256GB,8,10,50,Exynos 2200,3800,6.1,"79,900",16.05,86,July
+Samsung,Galaxy Z Fold 4 256GB,12,10,50,Snapdragon 8 Gen 1,4400,7.6,"1,34,900",6.06,90,June
+Samsung,Galaxy Z Fold 4 512GB,12,10,50,Snapdragon 8 Gen 1,4400,7.6,"1,54,900",3.13,50,November
+Samsung,Galaxy Z Flip 4 256GB,8,10,12,Snapdragon 8 Gen 1,3700,6.7,"84,900",24.61,96,October
+Samsung,Galaxy Z Flip 4 512GB,8,10,12,Snapdragon 8 Gen 1,3700,6.7,"94,900",7.4,72,May
+Samsung,Galaxy A04 64GB,4,5,50,Exynos 850,5000,6.5,"14,999",21.03,81,August
+Samsung,Galaxy A04 128GB,4,5,50,Exynos 850,5000,6.5,"18,499",46.69,92,May
+Samsung,Galaxy M04 64GB,4,5,13,MediaTek Helio P35,5000,6.5,"12,999",23.78,86,November
+Samsung,Galaxy M04 128GB,4,5,13,MediaTek Helio P35,5000,6.5,"15,999",5.98,64,January
+Samsung,Galaxy Xcover 6 Pro 128GB,6,13,50,Exynos 1380,4050,6.6,"28,999",47.82,65,September
+Samsung,Galaxy Tab S8 Ultra 256GB,12,12,13,Snapdragon 8 Gen 1,11200,14.6,"  1,09,999",0.51,66,September
+Samsung,Galaxy Tab S8+ 256GB,8,12,13,Snapdragon 8 Gen 1,10090,12.4,"94,999",47.37,53,August
+Samsung,Galaxy Tab S8 128GB,8,12,13,Snapdragon 8 Gen 1,8000,11,"74,999",42.51,61,July
+Samsung,Galaxy Tab A8 64GB,4,5,8,Unisoc T618,7040,10.5,"17,999",11.37,84,December
+Samsung,Galaxy Tab Active 4 Pro 128GB,6,8,13,Snapdragon 778G,7600,10.1,"64,999",26.16,59,August
+OnePlus,OnePlus 10 Pro 256GB,12,32,50,Snapdragon 8 Gen 1,5000,6.7,"64,999",42.47,67,February
+OnePlus,OnePlus 10T 256GB,12,16,50,Snapdragon 8+ Gen 1,4500,6.7,"54,999",44.06,82,August
+OnePlus,OnePlus Nord 2T 128GB,8,32,50,MediaTek Dimensity 1300,4500,6.43,"28,999",22.92,79,December
+OnePlus,OnePlus 10T 5G 256GB,12,16,50,Snapdragon 8+ Gen 1,4500,6.7,"54,999",33.26,99,July
+OnePlus,OnePlus Nord CE 2 Lite 128GB,6,16,64,MediaTek Dimensity 900,5000,6.59,"19,999",15.48,82,August
+OnePlus,OnePlus Nord CE 2 128GB,8,16,64,MediaTek Dimensity 1200,4500,6.43,"23,999",16.6,79,December
+OnePlus,OnePlus 10R 128GB,8,16,50,MediaTek Dimensity 8100,4500,6.7,"49,999",20.41,50,August
+Vivo,T1 5G 128GB,6,16,50,Qualcomm Snapdragon 695,5000,6.58,"17,999",37.09,54,March
+Vivo,T1 5G 256GB,8,16,50,Qualcomm Snapdragon 695,5000,6.58,"21,999",39.64,92,December
+Vivo,V25 Pro 128GB,8,32,64,MediaTek Dimensity 1300,4830,6.56,"25,999",48,52,February
+Vivo,V25 Pro 256GB,8,32,64,MediaTek Dimensity 1300,4830,6.56,"29,999",27.9,66,July
+Vivo,X90 Pro 256GB,12,32,50,MediaTek Dimensity 9200,4870,6.78,"69,999",29.02,76,November
+Vivo,X90 Pro 512GB,12,32,50,MediaTek Dimensity 9200,4870,6.78,"79,999",7.53,99,October
+Vivo,V23 5G 128GB,8,50,64,MediaTek Dimensity 920,4200,6.44,"27,999",28.25,81,June
+Vivo,V23 5G 256GB,8,50,64,MediaTek Dimensity 920,4200,6.44,"32,999",27,99,November
+Vivo,X80 256GB,12,32,50,MediaTek Dimensity 9000,4700,6.78,"59,999",27.09,60,January
+Vivo,X80 512GB,12,32,50,MediaTek Dimensity 9000,4700,6.78,"69,999",37.13,75,June
+Vivo,Pad 128GB,6,8,13,Snapdragon 870,8040,11,"34,999",31.86,53,January
+Oppo,Find X5 Pro 256GB,12,32,50,Snapdragon 8 Gen 1,5000,6.7,"89,999",27.07,53,September
+Oppo,Find X5 Pro 512GB,16,32,50,Snapdragon 8 Gen 1,5000,6.7,"99,999",29.49,71,February
+Oppo,Find X5 256GB,8,32,50,Snapdragon 888,4800,6.55,"79,999",40.16,54,July
+Oppo,Find N2 256GB,12,32,50,Snapdragon 8+ Gen 1,4520,7.1,"99,999",39.4,73,June
+Oppo,Reno9 5G 128GB,8,32,64,Snapdragon 778G,"4,500",6.7,"32,999",35.4,72,February
+Oppo,Reno9 5G 256GB,12,32,64,Snapdragon 778G,"4,500",6.7,"36,999",40.97,95,January
+Oppo,Reno9 Pro 5G 256GB,16,32,50,Dimensity 8100,"4,500",6.7,"42,999",31.92,95,August
+Oppo,Reno9 Pro+ 5G 256GB,16,32,50,Snapdragon 8+ Gen 1,"4,700",6.7,"52,999",46.24,77,April
+Oppo,Reno8 5G 128GB,8,32,50,Dimensity 1300,"4,500",6.4,"29,999",24.34,68,February
+Oppo,Reno8 5G 256GB,12,32,50,Dimensity 1300,"4,500",6.4,"34,999",24.95,56,November
+Oppo,Reno8 Pro 5G 256GB,12,32,50,Dimensity 8100,"4,500",6.7,"42,999",23.98,72,August
+Oppo,Reno8 Pro+ 5G 256GB,12,32,50,Dimensity 8100,"4,500",6.7,"46,999",24.81,57,June
+Oppo,A58 5G 256GB,8,8,50,MediaTek Dimensity 700,"5,000",6.56,"19,000",36.12,50,April
+Oppo,A57 5G 128GB,6,8,13,MediaTek Dimensity 810,"5,000",6.56,"15,999",8.41,62,January
+Oppo,K10x 128GB,6,16,64,Qualcomm Snapdragon 695,"5,000",6.59,"16,990",34.06,80,November
+Oppo,K10x 256GB,8,16,64,Qualcomm Snapdragon 695,"5,000",6.59,"18,990",43.63,68,June
+Oppo,K10 5G 128GB,8,16,64,MediaTek Dimensity 8000-Max,"5,000",6.59,"19,999",48.32,82,January
+Oppo,K10x 128GB,6,16,64,Qualcomm Snapdragon 695,"5,000",6.59,"16,990",23.78,86,May
+Oppo,K10x 256GB,8,16,64,Qualcomm Snapdragon 695,"5,000",6.59,"18,990",19.94,57,March
+Oppo,K10 5G 128GB,8,16,64,MediaTek Dimensity 8000-Max,"5,000",6.59,"19,999",38.36,84,May
+Oppo,K10 5G 256GB,12,16,64,MediaTek Dimensity 8000-Max,"5,000",6.59,"22,999",36.46,85,November
+Realme,Pad X 64GB,4,8,13,Qualcomm Snapdragon 695,"8,340",11,"29,999",15.67,62,November
+Realme,Pad X 128GB,6,8,13,Qualcomm Snapdragon 695,"8,340",11,"33,999",46.72,95,March
+Realme,Pad Mini 32GB,3,5,8,Unisoc T616,"6,400",8.7,"15,999",16.38,53,October
+Realme,Pad Mini 64GB,4,5,8,Unisoc T616,"6,400",8.7,"17,999",30.47,89,June
+Realme,Pad Slim 64GB,4,8,8,MediaTek Helio G80,"7,100",10.4,"19,499",29.89,52,November
+Realme,Pad Slim 128GB,6,8,8,MediaTek Helio G80,"7,100",10.4,"21,999",33.32,60,March
+Lenovo,Legion Y70 128GB,8,16,50,Snapdragon 8+ Gen 1,"5,100",6.67,"49,999",7.69,95,September
+Lenovo,Legion Y70 256GB,12,16,50,Snapdragon 8+ Gen 1,"5,100",6.67,"54,999",12.56,55,May
+Lenovo,Legion Y70 512GB,16,16,50,Snapdragon 8+ Gen 1,"5,100",6.67,"59,999",27.91,84,January
+Lenovo,K14 Plus 64GB,4,8,48,Unisoc T700,"5,000",6.5,"10,999",48.01,74,February
+Lenovo,K14 Plus 128GB,6,8,48,Unisoc T700,"5,000",6.5,"12,999",39.75,98,July
+Motorola,Moto G Power 64GB,4,16,50,Snapdragon 662,"5,000",6.6,"17,999",32.23,69,August
+Motorola,Moto G Power 128GB,6,16,50,Snapdragon 662,"5,000",6.6,"19,999",38.87,96,February
+Motorola,Moto G Play 32GB,3,5,13,MediaTek Helio G25,"5,000",6.5,"9,999",30.04,62,July
+Motorola,Moto G Play 64GB,4,5,13,MediaTek Helio G25,"5,000",6.5,"11,999",6.61,51,July
+Motorola,Edge 30 Fusion 128GB,8,32,50,Snapdragon 888+ 5G,"4,400",6.55,"49,999",41.11,72,July
+Motorola,Edge 30 Fusion 256GB,12,32,50,Snapdragon 888+ 5G,"4,400",6.55,"54,999",0.77,95,November
+Motorola,Edge 30 Neo 128GB,6,32,64,Snapdragon 695 5G,"4,020",6.28,"34,999",6.52,54,October
+Motorola,Edge 30 Neo 256GB,8,32,64,Snapdragon 695 5G,"4,020",6.28,"39,999",18.08,91,September
+Motorola,Moto G82 5G 128GB,6,16,50,Snapdragon 695 5G,"5,000",6.6,"24,999",35.71,93,June
+Motorola,Moto G82 5G 256GB,8,16,50,Snapdragon 695 5G,"5,000",6.6,"29,999",3.65,70,February
+Motorola,Moto G62 5G 128GB,4,16,50,Snapdragon 480+ 5G,"5,000",6.5,"19,999",33.07,95,August
+Motorola,Moto G62 5G 256GB,6,16,50,Snapdragon 480+ 5G,"5,000",6.5,"24,999",35.86,90,November
+Motorola,Moto G42 128GB,4,16,50,Snapdragon 680 4G,"5,000",6.4,"16,999",37.46,75,November
+Motorola,Moto G32 128GB,4,16,50,Snapdragon 680 4G,"5,000",6.5,"14,999",44.18,54,May
+Motorola,Moto E32s 64GB,3,8,16,MediaTek Helio G37,"5,000",6.5,"11,999",19,84,December
+Motorola,Moto E22i 32GB,2,5,16,MediaTek Helio G37,"4,020",6.5,"9,999",47.21,83,December
+Motorola,Moto E22 64GB,4,5,16,MediaTek Helio G37,"4,020",6.5,"10,999",44.98,77,March
+Motorola,Moto G22 64GB,4,16,50,MediaTek Helio G37,"5,000",6.5,"12,999",8.77,92,August
+Huawei,P50E,8,13,50,Snapdragon 778G 4G,"4,100",6.5,"54,999",5.37,92,April
+Huawei,Mate Xs 2,8,10.7,50,Snapdragon 888 4G,"4,600",7.8,"1,99,999",22.73,51,January
+Huawei,Mate 50,8,13,50,Snapdragon 8+ Gen 1 4G,"4,460",6.7,"84,999",43.65,64,July
+Huawei,Mate 50 Pro,8,13,50,Snapdragon 8+ Gen 1 4G,"4,700",6.74,"99,999",49.65,75,August
+Huawei,Nova 10,8,60,50,Snapdragon 778G 4G,"4,000",6.67,"39,999",18.95,66,July
+Huawei,Nova 10 Pro,8,60,50,Snapdragon 778G 4G,"4,500",6.78,"49,999",9.32,50,July
+Huawei,Nova 10 SE,8,16,108,Snapdragon 680 4G,"4,500",6.67,"34,999",49.71,79,June
+Nokia,G21 64GB,4,8,50,Unisoc T606,"5,050",6.5,"11,999",48.47,55,September
+Nokia,G21 128GB,6,8,50,Unisoc T606,"5,050",6.5,"13,999",14.77,74,April
+Nokia,G400 128GB,6,16,48,Snapdragon 480,"5,000",6.58,"22,999",42.84,86,November
+Sony,Xperia 1 IV 256GB,12,12,12,Snapdragon 8 Gen 1,"5,000",6.5,"1,19,999",7.03,70,June
+Sony,Xperia 5 IV 128GB,8,12,12,Snapdragon 8 Gen 1,"5,000",6.1,"89,999",27.21,88,April
+Sony,Xperia 10 IV 128GB,6,8,12,Snapdragon 695,"5,000",6,"49,999",33.62,61,June
+Nokia,T21,4,8,8,Unisoc T612,8200,10.4,"17,999",19.58,65,August
+Google,Pixel 6a 128GB,6,8,12.2,Google Tensor,"4,410",6.1,"43,999",44.21,51,September
+Google,Pixel 7 128GB,8,10.8,50,Google Tensor G2,"4,355",6.3,"64,999",33.37,67,May
+Google,Pixel 7 Pro 256GB,12,10.8,50,Google Tensor G2,"5,000",6.7,"89,999",45.49,91,January
+Infinix,Hot 12 128GB,6,8,13,MediaTek Helio G85,"5,000",6.82,"11,499",22.91,67,October
+Infinix,Hot 12 Play 128GB,4,8,13,Unisoc T610,"6,000",6.82,"10,499",28.98,81,February
+Infinix,Hot 12 Pro 128GB,8,8,50,Unisoc T616,"5,000",6.6,"12,999",32.87,71,June
+Infinix,Hot 12i 64GB,4,8,13,MediaTek Helio A22,"5,000",6.6,"9,999",0.48,89,July
+Infinix,Hot 20 128GB,6,8,50,MediaTek Helio G85,"5,000",6.82,"12,999",11.09,69,September
+Infinix,Hot 20 Play 128GB,4,8,13,MediaTek Helio G37,"6,000",6.82,"10,999",19.54,99,March
+Infinix,Hot 20s 128GB,8,8,50,MediaTek Helio G96,"5,000",6.78,"14,999",3.18,98,December
+Infinix,Hot 20 5G 128GB,6,8,50,MediaTek Dimensity 810,"5,000",6.6,"16,999",35.99,54,May
+Infinix,Hot 20i 64GB,4,8,13,MediaTek Helio G25,"5,000",6.6,"9,499",12.99,52,October
+Honor,Play 6,6,5,13,MediaTek MT6762G Helio G25,"5,000",6.52,"12,999",40.62,52,June
+Honor,Play 6T,6,5,13,MediaTek Dimensity 700,"5,000",6.74,"16,999",21.34,63,October
+Honor,Magic4,8,12,50,Qualcomm Snapdragon 8 Gen 1,"4,800",6.81,"72,999",26.62,98,September
+Honor,Magic4 Pro,8,12,50,Qualcomm Snapdragon 8 Gen 1,"4,600",6.81,"84,999",1.53,69,October
+Honor,Magic4 Ultimate,12,12,50,Qualcomm Snapdragon 8 Gen 1,"4,600",6.81,"99,999",22.14,93,November
+Honor,Magic V,12,42,50,Qualcomm Snapdragon 8 Gen 1,"4,750",7.9,"1,49,999",19.18,93,February
+Honor,70,8,32,54,Qualcomm Snapdragon 778G+,"4,800",6.67,"46,999",32.02,60,April
+Honor,70 Pro,8,50,54,MediaTek Dimensity 8000,"4,500",6.78,"59,999",7.68,50,August
+Honor,70 Pro+,12,50,54,MediaTek Dimensity 9000,"4,500",6.78,"69,999",15.58,94,April
+Honor,X40,6,8,50,Qualcomm Snapdragon 695,"5,100",6.67,"26,999",18.35,95,March
+Honor,X40i,6,8,50,MediaTek Dimensity 700,"4,000",6.7,"22,999",14.7,96,March
+Honor,80,8,32,160,Qualcomm Snapdragon 782G,"4,800",6.67,"46,999",4.81,95,May
+Honor,80 Pro,12,50,160,Qualcomm Snapdragon 8+ Gen 1,"4,800",6.78,"69,999",42.24,64,September
+Honor,80 SE,8,32,64,MediaTek Dimensity 900,"4,600",6.67,"34,999",1.14,53,March
+Honor,Pad 8,6,5,5,Qualcomm Snapdragon 680,"7,250",12,"24,999",23.43,65,August
+Honor,Pad X8,4,2,5,MediaTek Helio G80,"5,100",10.1,"16,999",21.04,88,March
+Honor,Pad X8 Lite,3,2,5,MediaTek MT8786,"5,000",9.7,"12,999",4.79,84,March
+POCO,F4 128GB,6,20,64,Snapdragon 870,4500,6.67,"27,999",15.19,70,May
+POCO,F4 GT 128GB,8,20,64,Snapdragon 8 Gen 1,4700,6.67,"39,999",3.15,57,March
+POCO,X4 Pro 5G 128GB,6,16,108,Snapdragon 695,5000,6.67,"18,999",30.26,75,December
+POCO,M4 Pro 128GB,6,16,64,MediaTek Helio G96,5000,6.43,"14,999",25.67,54,May
+POCO,M5 128GB,4,5,50,MediaTek Helio G99,5000,6.58,"12,499",4.17,62,June
+POCO,M5s 128GB,4,13,64,MediaTek Helio G95,5000,6.43,"13,999",47.64,51,August
+Apple,iPhone 15 128GB,6,12,48,A16 Bionic,"3,200",6.1,"74,999",28.38,76,August
+Apple,iPhone 15 256GB,6,12,48,A16 Bionic,"3,200",6.1,"79,999",36.64,83,April
+Apple,iPhone 15 512GB,6,12,48,A16 Bionic,"3,200",6.1,"89,999",33.1,84,December
+Apple,iPhone 15 Plus 128GB,6,12,48,A16 Bionic,"4,300",6.7,"84,999",36.27,61,August
+Apple,iPhone 15 Plus 256GB,6,12,48,A16 Bionic,"4,300",6.7,"94,999",30.16,60,March
+Apple,iPhone 15 Plus 512GB,6,12,48,A16 Bionic,"4,300",6.7,"1,04,999",13.19,82,June
+Apple,iPhone 15 Pro 128GB,6,12,48,A16 Bionic,"4,400",6.1,"99,999",41.65,97,May
+Apple,iPhone 15 Pro 256GB,8,12,48,A16 Bionic,"4,400",6.1,"1,09,999",41.42,51,September
+Apple,iPhone 15 Pro 512GB,8,12,48,A16 Bionic,"4,400",6.1,"1,19,999",48.4,87,October
+Apple,iPhone 15 Pro Max 128GB,6,12,48,A16 Bionic,"4,500",6.7,"1,14,999",12.06,57,July
+Apple,iPhone 15 Pro Max 256GB,8,12,48,A16 Bionic,"4,500",6.7,"1,24,999",48.43,71,April
+Apple,iPhone 15 Pro Max 512GB,8,12,48,A16 Bionic,"4,500",6.7,"1,34,999",31.21,96,June
+Samsung,Galaxy S23 Ultra 128GB,12,12,200,Snapdragon 8 Gen 2,5000,6.8,"99,900",29.65,77,April
+Samsung,Galaxy S23 Ultra 256GB,12,12,200,Snapdragon 8 Gen 2,5000,6.8,"1,09,900",47.26,58,December
+Samsung,Galaxy S23+ 128GB,8,12,50,Snapdragon 8 Gen 2,4700,6.6,"79,900",5.04,93,February
+Samsung,Galaxy S23+ 256GB,8,12,50,Snapdragon 8 Gen 2,4700,6.6,"89,900",11.68,92,October
+Samsung,Galaxy S23 128GB,8,12,50,Snapdragon 8 Gen 2,3900,6.1,"69,900",28.86,75,September
+Samsung,Galaxy S23 256GB,8,12,50,Snapdragon 8 Gen 2,3900,6.1,"79,900",20.93,65,January
+Samsung,Galaxy Z Fold 5 256GB,12,10,50,Snapdragon 8 Gen 2,4400,7.6,"1,54,900",7.81,87,December
+Samsung,Galaxy Z Fold 5 512GB,12,10,50,Snapdragon 8 Gen 2,4400,7.6,"1,74,900",8.05,66,January
+Samsung,Galaxy Z Flip 5 256GB,8,12,12,Snapdragon 8 Gen 2,3700,6.7,"94,900",45.58,68,April
+Samsung,Galaxy Z Flip 5 512GB,8,12,12,Snapdragon 8 Gen 2,3700,6.7,"1,04,900",23.5,58,June
+Samsung,Galaxy A54 128GB,6,32,50,Exynos 1380,5000,6.4,"27,999",23.24,81,January
+Samsung,Galaxy A54 256GB,6,32,50,Exynos 1380,5000,6.4,"32,999",26.35,68,September
+Samsung,Galaxy A34 128GB,6,13,48,MediaTek Dimensity 1080,5000,6.6,"22,999",29.61,95,April
+Samsung,Galaxy A34 256GB,6,13,48,MediaTek Dimensity 1080,5000,6.6,"27,999",46.88,95,December
+Samsung,Galaxy A24 128GB,6,13,50,MediaTek Helio G99,5000,6.5,"19,999",15.7,80,October
+Samsung,Galaxy A24 256GB,6,13,50,MediaTek Helio G99,5000,6.5,"24,999",6.14,69,February
+Samsung,Galaxy A14 128GB,4,13,50,Exynos 850,5000,6.6,"18,499",36.48,89,September
+Samsung,Galaxy A14 256GB,4,13,50,Exynos 850,5000,6.6,"21,999",32.36,51,November
+Samsung,Galaxy M54 128GB,8,32,108,Exynos 1380,6000,6.7,"23,999",42.87,90,August
+Samsung,Galaxy M54 256GB,8,32,108,Exynos 1380,6000,6.7,"26,999",38.21,92,October
+Samsung,Galaxy M34 128GB,6,13,50,Exynos 1280,6000,6.5,"17,999",32.36,98,September
+Samsung,Galaxy M34 256GB,6,13,50,Exynos 1280,6000,6.5,"20,999",25.38,71,August
+Samsung,Galaxy M14 128GB,4,13,50,Exynos 850,6000,6.6,"14,999",48.69,98,November
+Samsung,Galaxy M14 256GB,4,13,50,Exynos 850,6000,6.6,"17,999",14.4,75,January
+Samsung,Galaxy F54 128GB,8,32,108,Exynos 1380,6000,6.7,"23,999",16.02,70,June
+Samsung,Galaxy F54 256GB,8,32,108,Exynos 1380,6000,6.7,"26,999",13.09,92,March
+Samsung,Galaxy F34 128GB,6,13,50,Exynos 1280,6000,6.5,"18,999",43.21,66,November
+Samsung,Galaxy F34 256GB,6,13,50,Exynos 1280,6000,6.5,"21,999",38.74,69,December
+Samsung,Galaxy F14 128GB,4,13,50,Exynos 850,6000,6.6,"14,999",46.58,81,December
+Samsung,Galaxy F14 256GB,4,13,50,Exynos 850,6000,6.6,"17,999",11.53,89,November
+Samsung,Galaxy Tab S9 Ultra 256GB,12,12,13,Snapdragon 8 Gen 2,11200,14.6,"  1,14,999",46.65,68,November
+Samsung,Galaxy Tab S9+ 256GB,12,12,13,Snapdragon 8 Gen 2,10090,12.4,"99,999",42.02,66,December
+Samsung,Galaxy Tab S9 128GB,8,12,13,Snapdragon 8 Gen 2,8400,11,"85,999",19.71,94,March
+Samsung,Galaxy Tab S9 FE 128GB,6,12,8,Exynos 1380,8000,10.9,"49,999",13.31,72,August
+Samsung,Galaxy Tab A9+ 128GB,8,5,8,Snapdragon 695,7040,11,"22,999",4.37,57,June
+Samsung,Galaxy Tab A9 64GB,4,2,8,MediaTek Helio G99,5100,8.7,"16,999",5.43,82,May
+OnePlus,OnePlus 11 256GB,12,16,50,Snapdragon 8 Gen 1,5000,6.7,"54,999",12.59,95,September
+OnePlus,OnePlus 11R 256GB,12,16,50,Snapdragon 8 Gen 1,5000,6.7,"44,999",20.85,82,May
+OnePlus,OnePlus Nord 3 256GB,12,16,50,MediaTek Dimensity 9000,5000,6.74,"34,999",32.2,85,June
+OnePlus,OnePlus Nord CE 3 128GB,8,16,50,Snapdragon 782G,5000,6.72,"22,999",45.61,68,May
+OnePlus,OnePlus Nord CE 3 Lite 128GB,8,16,108,Snapdragon 695,5000,6.72,"17,999",48.21,94,August
+OnePlus,OnePlus Nord N30 5G 128GB,8,16,64,MediaTek Dimensity 6020,5000,6.72,"16,999",40.46,95,October
+OnePlus,OnePlus 11 Pro 256GB,16,32,50,Snapdragon 8 Gen 2,5000,6.7,"74,999",31.86,86,October
+OnePlus,OnePlus 13R 128GB,8,16,50,Snapdragon 8 Gen 2,4500,6.7,"74,999",31.37,75,April
+OnePlus,OnePlus 11T 128GB,12,32,50,Snapdragon 8 Gen 2,5000,6.7,"74,999",25.79,86,February
+OnePlus,OnePlus 15R 128GB,12,32,50,Snapdragon 8 Gen 3,5000,6.7,"74,999",23.94,67,May
+OnePlus,OnePlus 14+ 128GB,8,16,64,Snapdragon 8 Gen 2,4800,6.55,"69,999",39.19,70,September
+OnePlus,OnePlus 13 Pro 256GB,12,32,50,Snapdragon 8 Gen 2,5000,6.7,"74,999",12.07,93,January
+OnePlus,OnePlus 12T 5G 256GB,12,16,50,Snapdragon 8 Gen 2,5000,6.7,"74,999",24.73,77,October
+OnePlus,OnePlus Pad,8,8,13,MediaTek Dimensity 9000,9510,11.61,"39,999",42.89,62,November
+Vivo,V27 128GB,8,50,50,MediaTek Dimensity 8200,4600,6.78,"29,999",37.16,76,February
+Vivo,V27 256GB,8,50,50,MediaTek Dimensity 8200,4600,6.78,"32,999",44.52,99,October
+Vivo,V27 Pro 128GB,8,50,50,MediaTek Dimensity 8200,4600,6.78,"34,999",40.32,62,April
+Vivo,V27 Pro 256GB,8,50,50,MediaTek Dimensity 8200,4600,6.78,"37,999",27.13,59,May
+Vivo,Y100 128GB,8,16,64,MediaTek Dimensity 900,4500,6.44,"19,999",31.79,73,November
+Vivo,Y100 256GB,8,16,64,MediaTek Dimensity 900,4500,6.44,"22,999",25.58,98,June
+Vivo,T2 Series 128GB,8,16,64,Qualcomm Snapdragon 695,4500,6.44,"15,999",39.47,92,April
+Vivo,T2 Series 256GB,8,16,64,Qualcomm Snapdragon 695,4500,6.44,"18,999",46.59,81,March
+Vivo,Pad 2 256GB,8,8,50,MediaTek Dimensity 1200,8040,11,"39,999",4.85,81,July
+Vivo,Pad Air 128GB,6,8,13,Snapdragon 870,8040,10.4,"31,999",12.27,69,April
+Vivo,Pad 3 128GB,6,8,13,Snapdragon 750G,8040,11,"34,999",33.64,86,April
+Vivo,Pad 3 Pro 256GB,8,8,50,Snapdragon 888,8040,12.3,"45,999",15.03,54,July
+iQOO,Pad 128GB,6,8,13,Snapdragon 870,8040,11,"37,999",6.03,63,March
+Oppo,Find N3 512GB,12,32,48,Snapdragon 8 Gen 2,4805,7.82,"1,59,999",12.13,68,June
+Oppo,Find N3 Flip 256GB,12,32,50,MediaTek Dimensity 9200,4300,6.8,"1,09,999",40.01,55,April
+Oppo,F25 Pro 128GB,8,32,64,Snapdragon 778G,4500,6.55,"42,999",21.13,98,July
+Oppo,F25 Pro 256GB,8,32,64,Snapdragon 778G,4500,6.55,"44,999",10.53,77,May
+Oppo,Pad Neo 128GB,6,8,13,Snapdragon 870,8360,11,"44,999",48.06,67,November
+Oppo,Pad Neo 256GB,8,8,13,Snapdragon 870,8360,11,"49,999",20.46,59,February
+Oppo,Find X6 Pro 256GB,12,32,50,Snapdragon 8 Gen 2,5000,6.82,"94,999",38.67,79,August
+Oppo,Find X6 Pro 512GB,16,32,50,Snapdragon 8 Gen 2,5000,6.82,"1,04,999",41.76,51,December
+Oppo,Find X6 256GB,12,32,50,Dimensity 9200,4800,6.74,"84,999",4.89,67,February
+Oppo,Find X6 512GB,16,32,50,Dimensity 9200,4800,6.74,"94,999",17.98,67,July
+Oppo,Find N2 Flip 256GB,8,32,50,Dimensity 9000+,4300,6.8,"84,999",6.21,94,April
+Oppo,Find N2 Flip 512GB,12,32,50,Dimensity 9000+,4300,6.8,"94,999",14.3,96,September
+Oppo,Reno10 5G 128GB,8,32,64,Dimensity 7050,"5,000",6.7,"38,999",23.03,69,July
+Oppo,Reno10 5G 256GB,8,32,64,Dimensity 7050,"5,000",6.7,"42,999",35.49,50,April
+Oppo,Reno10 Pro 5G 256GB,12,32,50,Snapdragon 778G,"4,600",6.7,"44,999",2.44,56,December
+Oppo,Reno10 Pro+ 5G 256GB,16,32,50,Snapdragon 8+ Gen 1,"4,700",6.74,"54,999",32.36,87,July
+Oppo,A59 5G 128GB,6,8,13,MediaTek Dimensity 6020,"5,000",6.56,"14,999",2.13,99,April
+Oppo,A59 5G 256GB,8,8,13,MediaTek Dimensity 6020,"5,000",6.56,"16,999",39.99,73,October
+Oppo,K11x 128GB,8,16,108,Qualcomm Snapdragon 695,"5,000",6.72,"18,000",38.12,62,October
+Oppo,K11x 256GB,12,16,108,Qualcomm Snapdragon 695,"5,000",6.72,"20,000",22.5,98,September
+Oppo,K11x 128GB,8,16,108,Qualcomm Snapdragon 695,"5,000",6.72,"18,000",7.36,63,December
+Oppo,K11x 256GB,12,16,108,Qualcomm Snapdragon 695,"5,000",6.72,"20,000",20.87,83,April
+Oppo,K11 128GB,8,16,64,Qualcomm Snapdragon 782G,"5,000",6.7,"21,999",26,52,February
+Oppo,K11 256GB,12,16,64,Qualcomm Snapdragon 782G,"5,000",6.7,"24,999",11.86,75,April
+Realme,GT 6 128GB,8,32,50,Qualcomm Snapdragon 8s Gen 3,"5,500",6.78,"37,999",33.15,52,June
+Realme,GT 6 256GB,12,32,50,Qualcomm Snapdragon 8s Gen 3,"5,500",6.78,"39,999",37.3,61,March
+Realme,GT 6 512GB,16,32,50,Qualcomm Snapdragon 8s Gen 3,"5,500",6.78,"41,999",1.67,89,March
+Realme,GT 6T 128GB,8,32,50,Qualcomm Snapdragon 7 Plus Gen 3,"5,500",6.78,"28,756",3.03,54,August
+Realme,GT 6T 256GB,8,32,50,Qualcomm Snapdragon 7 Plus Gen 3,"5,500",6.78,"30,999",33.04,90,August
+Realme,C55 128GB,6,8,64,MediaTek Helio G88,"5,000",6.72,"14,999",45.64,76,September
+Realme,C55 256GB,8,8,64,MediaTek Helio G88,"5,000",6.72,"16,999",12.42,69,September
+Realme,Pad 2 128GB,6,8,8,MediaTek Helio G99,"8,360",11.5,"27,999",28.81,51,October
+Realme,Pad 2 256GB,8,8,8,MediaTek Helio G99,"8,360",11.5,"31,999",3.53,83,January
+Realme,Pad 2 Lite 64GB,4,8,8,MediaTek Helio G85,"7,100",10.4,"18,999",18.12,98,February
+Realme,Pad 2 Lite 128GB,6,8,8,MediaTek Helio G85,"7,100",10.4,"20,999",8.32,74,February
+Xiaomi,Xiaomi 14 Pro 256GB,12,32,50,Snapdragon 8 Gen 3,"5,000",6.73,"84,999",43.66,55,September
+Xiaomi,Xiaomi 14 Pro 512GB,12,32,50,Snapdragon 8 Gen 3,"5,000",6.73,"94,999",40.77,65,March
+Xiaomi,Xiaomi 14 256GB,12,32,50,Snapdragon 8 Gen 3,"4,610",6.36,"74,999",29.15,68,April
+Xiaomi,Xiaomi 14 512GB,12,32,50,Snapdragon 8 Gen 3,"4,610",6.36,"84,999",33.49,88,July
+Motorola,Razr 128GB,8,32,50,Snapdragon 8+ Gen 1,"3,500",6.7,"59,999",33.07,90,August
+Motorola,Razr 256GB,12,32,50,Snapdragon 8+ Gen 1,"3,500",6.7,"64,999",31.12,66,August
+Motorola,G84 5G 128GB,8,16,50,Snapdragon 695,"5,000",6.5,"19,999",4.15,52,February
+Motorola,G84 5G 256GB,12,16,50,Snapdragon 695,"5,000",6.5,"22,999",8.86,92,November
+Motorola,Moto G Stylus 64GB,4,16,50,MediaTek Helio G88,"5,000",6.8,"21,999",19.07,80,November
+Motorola,Moto G Stylus 128GB,6,16,50,MediaTek Helio G88,"5,000",6.8,"24,999",24.35,65,December
+Motorola,Moto E40 Plus 64GB,4,8,48,Unisoc T700,"5,000",6.5,"11,999",19.04,51,January
+Motorola,Moto E40 Plus 128GB,6,8,48,Unisoc T700,"5,000",6.5,"13,999",13.77,52,October
+Huawei,P60,8,13,48,Snapdragon 8+ Gen 1 4G,"4,815",6.67,"84,999",29.41,95,March
+Huawei,P60 Pro,8,13,48,Snapdragon 8+ Gen 1 4G,"4,815",6.67,"99,999",7.13,79,May
+Huawei,P60 Art,8,13,48,Snapdragon 8+ Gen 1 4G,"5,100",6.73,"1,19,999",8.94,88,August
+Huawei,Mate X3,12,8,50,Snapdragon 8+ Gen 1 4G,"4,800",7.85,"2,49,999",43.99,73,May
+Huawei,Mate 60,12,13,50,Kirin 9000S,"4,750",6.7,"1,09,999",39.72,64,July
+Huawei,Mate 60 Pro,12,13,50,Kirin 9000S,"5,000",6.82,"1,29,999",29.15,86,December
+Huawei,Mate 60 Pro+,12,13,50,Kirin 9000S,"5,200",6.82,"1,49,999",43.8,54,October
+Huawei,Nova 11,8,60,50,Snapdragon 778G 4G,"4,500",6.7,"44,999",34.77,96,August
+Huawei,Nova 11 Pro,8,60,50,Snapdragon 778G 4G,"4,500",6.78,"54,999",8.33,75,March
+Huawei,Nova 11 Ultra,12,60,50,Snapdragon 778G 4G,"4,500",6.78,"64,999",11.51,59,May
+Nokia,G42 5G 128GB,4,8,50,Snapdragon 480+,"5,000",6.56,"18,999",6.28,99,May
+Nokia,C32 64GB,3,8,50,Unisoc SC9863A,"5,000",6.52,"9,999",38.73,94,September
+Nokia,C32 128GB,4,8,50,Unisoc SC9863A,"5,000",6.52,"10,999",13.5,78,April
+Nokia,C22 64GB,2,8,13,Unisoc SC9863A,"5,000",6.5,"8,499",34.96,55,November
+Nokia,C22 128GB,3,8,13,Unisoc SC9863A,"5,000",6.5,"9,499",26.98,92,October
+Sony,Xperia 1 V 256GB,12,12,48,Snapdragon 8 Gen 2,"5,000",6.5,"1,24,999",39.2,56,July
+Sony,Xperia 5 V 128GB,8,12,48,Snapdragon 8 Gen 2,"5,000",6.1,"94,999",4.97,99,March
+Sony,Xperia 10 V 128GB,6,8,48,Snapdragon 695,"5,000",6.1,"54,999",26.35,87,May
+Google,Pixel 7a 128GB,8,10.8,64,Google Tensor G2,"4,385",6.1,"44,999",49.58,69,February
+Google,Pixel 8 128GB,8,10.5,50,Google Tensor G3,"4,575",6.2,"69,999",48.38,59,April
+Google,Pixel 8 Pro 256GB,12,10.5,50,Google Tensor G3,"5,050",6.7,"99,999",33.69,68,March
+Infinix,Hot 40,8,32,50,MediaTek Helio G88,"5,000",6.78,"12,499",46.8,61,August
+Infinix,Hot 40i,4,8,13,Unisoc T606,"5,000",6.6,"10,999",20.95,74,August
+Infinix,Hot 40 Pro,8,32,108,MediaTek Helio G99,"5,000",6.78,"14,999",42.92,62,November
+Infinix,Hot 30 128GB,8,8,50,MediaTek Helio G88,"5,000",6.78,"12,499",40.31,61,January
+Infinix,Hot 30i 128GB,4,8,13,Unisoc T606,"5,000",6.6,"10,999",8.29,86,May
+Infinix,Hot 30i NFC 128GB,4,8,13,Unisoc T606,"5,000",6.6,"11,499",25.26,75,March
+Infinix,Hot 30 Play 128GB,4,8,16,MediaTek Helio G37,"6,000",6.82,"11,999",33.96,88,December
+Infinix,Hot 30 5G 128GB,8,8,50,MediaTek Dimensity 810,"5,000",6.78,"17,999",47.23,92,March
+Infinix,Zero 30 256GB,8,50,108,MediaTek Dimensity 8020,"5,000",6.78,"26,999",3.16,98,December
+Infinix,Zero 30 5G 256GB,12,50,108,MediaTek Dimensity 8020,"5,000",6.78,"29,999",3.63,81,October
+Infinix,GT 10 Pro 256GB,8,32,108,MediaTek Dimensity 8050,"5,000",6.67,"32,999",49.47,86,December
+Honor,Play 7,4,5,13,MediaTek Helio G37,"5,200",6.74,"12,499",45.01,54,July
+Honor,Play 7T,6,5,13,MediaTek Dimensity 6020,"5,200",6.74,"14,999",27.71,85,November
+Honor,Magic5,8,12,50,Qualcomm Snapdragon 8 Gen 2,"5,100",6.81,"79,999",44.59,70,November
+Honor,Magic5 Pro,12,12,50,Qualcomm Snapdragon 8 Gen 2,"5,100",6.81,"99,999",12.67,79,January
+Honor,Magic5 Ultimate,16,12,50,Qualcomm Snapdragon 8 Gen 2,"5,450",6.81,"1,19,999",45.28,50,November
+Honor,Magic Vs,12,16,50,Qualcomm Snapdragon 8+ Gen 1,"5,000",7.9,"1,49,999",0.41,95,May
+Honor,X50,6,8,108,Qualcomm Snapdragon 6 Gen 1,"5,800",6.78,"28,999",19.26,71,May
+Honor,X50i,6,8,100,MediaTek Dimensity 6020,"4,500",6.7,"21,999",26.96,57,December
+Honor,Play 8,4,5,13,MediaTek Helio G36,"5,000",6.52,"11,499",32.82,96,July
+Honor,Play 8T,6,5,50,MediaTek Dimensity 6100+,"5,200",6.74,"13,999",3.53,99,April
+Honor,90,12,50,200,Qualcomm Snapdragon 7 Gen 1,"5,000",6.7,"54,999",11.68,61,February
+Honor,90 Pro,12,50,200,Qualcomm Snapdragon 8+ Gen 1,"5,000",6.78,"64,999",20.47,93,January
+Honor,90 SE,8,32,64,MediaTek Dimensity 900,"4,600",6.67,"34,999",30.29,84,June
+Honor,X60,6,8,108,Qualcomm Snapdragon 6 Gen 1,"5,800",6.78,"28,999",26.42,68,May
+Honor,X60i,6,8,100,MediaTek Dimensity 6020,"4,500",6.7,"21,999",12.16,62,May
+Honor,Play 9,4,5,13,MediaTek Helio G36,"5,000",6.52,"11,499",4.2,76,November
+Honor,Play 9T,6,5,50,MediaTek Dimensity 6100+,"5,200",6.74,"13,999",4.39,61,March
+Honor,Pad V8,6,5,13,MediaTek Dimensity 8020,"7,250",11,"39,999",5.13,80,July
+Honor,Pad V8 Pro,8,8,13,MediaTek Dimensity 9000,"8,500",12.1,"54,999",1.7,65,January
+Honor,Pad X9,6,5,8,Qualcomm Snapdragon 685,"7,250",11.5,"22,999",31.64,80,May
+Honor,Pad X8 Pro,4,2,5,MediaTek Helio G80,"5,100",10.1,"16,999",36.07,55,June
+Honor,MagicPad 13,12,8,13,Qualcomm Snapdragon 8+ Gen 1,"10,000",13,"64,999",22.49,61,February
+Honor,Pad X8a,4,2,5,MediaTek MT8786,"5,000",9.7,"12,999",5.53,78,January
+Honor,Pad X8a Kids Edition,3,2,5,MediaTek MT8786,"5,100",9.7,"10,999",30.26,88,January
+POCO,F5 128GB,6,16,64,Snapdragon 7+ Gen 2,5000,6.67,"29,999",4.29,53,March
+POCO,F5 Pro 256GB,8,20,64,Snapdragon 8+ Gen 1,5160,6.67,"39,999",4.99,97,July
+POCO,X5 128GB,6,13,48,Snapdragon 695,5000,6.67,"18,999",31.98,63,May
+POCO,X5 Pro 128GB,6,16,108,Snapdragon 778G,5000,6.67,"22,999",39.44,84,January
+POCO,M6 64GB,4,8,50,MediaTek Helio G88,5000,6.58,"12,999",29.07,93,November
+POCO,M6 Pro 128GB,6,8,50,Snapdragon 4 Gen 1,5000,6.79,"14,999",7.21,82,February
+Apple,iPhone 16 128GB,6,12,48,A17 Bionic,"3,600",6.1,"79,999",11.5,54,November
+Apple,iPhone 16 256GB,6,12,48,A17 Bionic,"3,600",6.1,"84,999",36.2,57,September
+Apple,iPhone 16 512GB,6,12,48,A17 Bionic,"3,600",6.1,"89,999",27.47,82,December
+Apple,iPhone 16 Plus 128GB,6,12,48,A17 Bionic,"4,200",6.7,"89,999",24.05,96,August
+Apple,iPhone 16 Plus 256GB,6,12,48,A17 Bionic,"4,200",6.7,"94,999",2.84,77,September
+Apple,iPhone 16 Plus 512GB,6,12,48,A17 Bionic,"4,200",6.7,"1,04,999",19.51,56,February
+Apple,iPhone 16 Pro 128GB,6,12,50,A17 Pro,"4,400",6.1,"99,999",35.67,57,October
+Apple,iPhone 16 Pro 256GB,8,12,50,A17 Pro,"4,400",6.1,"1,04,999",15.09,90,November
+Apple,iPhone 16 Pro 512GB,8,12,50,A17 Pro,"4,400",6.1,"1,14,999",7.88,79,November
+Apple,iPhone 16 Pro Max 128GB,6,12,48,A17 Pro,"4,500",6.7,"1,09,999",10.22,97,October
+Apple,iPhone 16 Pro Max 256GB,8,12,48,A17 Pro,"4,500",6.7,"1,14,999",17.86,99,February
+Apple,iPhone 16 Pro Max 512GB,8,12,48,A17 Pro,"4,500",6.7,"1,24,999",37.35,74,July
+Samsung,Galaxy S24 Ultra 128GB,12,12,200,Exynos 2400,5000,6.8,"1,04,900",9.33,53,March
+Samsung,Galaxy S24 Ultra 256GB,12,12,200,Exynos 2400,5000,6.8,"1,14,900",43.08,98,June
+Samsung,Galaxy S24+ 128GB,8,12,50,Exynos 2400,4800,6.6,"89,900",5.44,55,April
+Samsung,Galaxy S24+ 256GB,8,12,50,Exynos 2400,4800,6.6,"99,900",15.82,82,August
+Samsung,Galaxy S24 128GB,8,12,50,Exynos 2400,4000,6.1,"79,900",27.5,94,October
+Samsung,Galaxy S24 256GB,8,12,50,Exynos 2400,4000,6.1,"89,900",32.81,61,April
+Samsung,Galaxy Tab Active 5 128GB,6,5,13,Exynos 1380,5050,8,"54,999",48.33,65,March
+OnePlus,OnePlus 12 256GB,12,32,50,Snapdragon 8 Gen 3,5000,6.7,"74,999",42.69,80,January
+OnePlus,OnePlus 12R 256GB,12,16,50,Snapdragon 8 Gen 2,4500,6.7,"49,999",35.08,89,January
+OnePlus,OnePlus Open 256GB,16,32,48,Snapdragon 8 Gen 2,4800,7.8,"74,999",41.8,90,February
+OnePlus,OnePlus Pad 2,8,8,13,MediaTek Dimensity 9000,9510,11.61,"44,999",38.71,50,April
+OnePlus,OnePlus Pad Pro,12,16,50,Snapdragon 8 Gen 3,11000,12.4,"69,999",48.71,58,September
+Vivo,X200 128GB,12,32,50,Dimensity 9400,6000,6.78,"1,19,999",22.58,75,June
+Vivo,X200 256GB,12,32,50,Dimensity 9400,6000,6.78,"1,29,999",40.91,67,February
+Vivo,X200 Pro 256GB,16,32,200,Dimensity 9400,6000,6.78,"1,39,999",27.52,64,September
+Vivo,X200 Pro 512GB,16,32,200,Dimensity 9400,6000,6.78,"1,49,999",6.17,75,January
+Vivo,X200 Pro Mini 256GB,16,32,50,Dimensity 9400,5700,6.31,"1,09,999",29.83,57,December
+Vivo,V40e 128GB,8,44,64,Snapdragon 778G,4100,6.44,"44,999",35.67,75,February
+Vivo,Y200 GT 128GB,12,16,64,Dimensity 1200,5000,6.58,"39,999",45.13,99,March
+Vivo,T3 5G 128GB,8,16,50,Snapdragon 870,5000,6.67,"34,999",33.1,54,May
+Vivo,Y100 5G 128GB,8,16,64,Dimensity 900,4500,6.38,"29,999",27.63,82,November
+Vivo,S18 Pro 256GB,12,32,108,Snapdragon 8 Gen 2,4700,6.56,"59,999",48.41,86,November
+Vivo,V30 Pro 128GB,12,32,64,Dimensity 1100,4500,6.44,"49,999",12.97,59,August
+Vivo,iQOO 12 256GB,16,16,50,Snapdragon 8 Gen 3,5000,6.78,"64,999",37.28,90,July
+Vivo,Pad 4 Pro 256GB,8,8,50,MediaTek Dimensity 9000,8040,12.9,"49,999",34.79,87,June
+iQOO,Pad 2 256GB,8,8,50,Snapdragon 888,8040,12.3,"43,999",18.93,95,January
+iQOO,Pad 2 Pro 256GB,8,8,50,Snapdragon 8 Gen 1,8040,12.3,"49,999",26.67,98,August
+Oppo,Find X8 Pro 256GB,12,32,50,Snapdragon 8 Gen 2,5000,6.8,"1,39,999",24.05,93,July
+Oppo,Find X8 256GB,8,32,50,Snapdragon 8 Gen 2,4800,6.7,"1,19,999",7.38,76,July
+Oppo,Reno12 F 4G 256GB,8,32,50,Snapdragon 685,5000,6.7,"39,999",8.31,54,December
+Oppo,Reno12 F 256GB,8,32,50,Snapdragon 685,5000,6.7,"39,999",13.46,77,February
+Oppo,Reno12 Pro 512GB,12,32,50,MediaTek Dimensity 8200,4600,6.74,"64,999",45.63,97,April
+Oppo,Reno12 256GB,8,32,50,MediaTek Dimensity 7050,5000,6.7,"49,999",30.54,75,July
+Oppo,Reno11 F 256GB,8,32,64,MediaTek Dimensity 7050,5000,6.7,"44,999",28.05,74,August
+Oppo,Reno11 Pro 512GB,12,32,50,MediaTek Dimensity 8200,4600,6.74,"59,999",30.34,74,May
+Oppo,A5 Pro 256GB,8,16,50,Dimensity 7300,6000,6.7,"49,999",19.55,64,June
+Oppo,A5 Pro 512GB,12,16,50,Dimensity 7300,6000,6.7,"54,999",42.1,58,September
+Oppo,A80 256GB,8,8,50,Dimensity 6300,5100,6.67,"44,999",36.39,83,October
+Oppo,A3 4G 128GB,4,5,50,Snapdragon 6s 4G Gen 1,5000,6.7,"34,999",17.62,52,May
+Oppo,A3x 4G 128GB,4,8,8,Snapdragon 6s 4G Gen 1,5100,6.67,"36,999",11.03,84,August
+Oppo,A3x 4G 256GB,6,8,8,Snapdragon 6s 4G Gen 1,5100,6.67,"39,999",43.72,89,June
+Oppo,A3 128GB,4,5,50,Snapdragon 6s 4G Gen 1,5000,6.7,"34,999",14.23,78,February
+Oppo,A3x 128GB,4,8,8,Snapdragon 6s 4G Gen 1,5100,6.67,"36,999",0.34,51,July
+Oppo,A3x 256GB,6,8,8,Snapdragon 6s 4G Gen 1,5100,6.67,"39,999",14.26,84,March
+Oppo,A3 128GB,4,5,50,Snapdragon 6s 4G Gen 1,5000,6.7,"34,999",37.37,75,June
+Oppo,A60 128GB,8,8,50,Snapdragon 680 4G,5000,6.67,"39,999",46.55,58,August
+Oppo,A60 256GB,8,8,50,Snapdragon 680 4G,5000,6.67,"42,999",12,98,September
+Oppo,K12 Plus 256GB,8,16,50,Snapdragon 7 Gen 3,6400,6.7,"59,999",20.21,94,April
+Oppo,K12 Plus 512GB,12,16,50,Snapdragon 7 Gen 3,6400,6.7,"64,999",1.71,61,September
+Oppo,F27 128GB,8,32,64,Dimensity 7050,5000,6.7,"44,999",18.9,50,November
+Oppo,F27 256GB,8,32,64,Dimensity 7050,5000,6.7,"47,999",12.94,74,August
+Oppo,F27 Pro+ 256GB,8,32,64,Dimensity 7050,5000,6.7,"49,999",7.91,76,March
+Oppo,F27 Pro+ 512GB,12,32,64,Dimensity 7050,5000,6.7,"54,999",13.96,65,December
+Oppo,Pad 3 128GB,8,8,13,Dimensity 8350,9510,11.6,"54,999",26.77,70,September
+Oppo,Pad 3 256GB,12,8,13,Dimensity 8350,9510,11.6,"59,999",24.65,85,January
+Oppo,Pad 3 Pro 256GB,12,8,13,Snapdragon 8 Gen 3,9510,12.1,"64,999",25.58,81,March
+Oppo,Pad 3 Pro 512GB,16,8,13,Snapdragon 8 Gen 3,9510,12.1,"69,999",15.18,70,August
+Oppo,Find X7 Ultra 256GB,12,32,50,Snapdragon 8 Gen 3,5000,6.82,"1,09,999",18.91,92,October
+Oppo,Find X7 Ultra 512GB,16,32,50,Snapdragon 8 Gen 3,5000,6.82,"1,19,999",14.26,78,November
+Oppo,Find X7 256GB,12,32,50,Dimensity 9300,5000,6.78,"99,999",33.41,82,April
+Oppo,Find X7 512GB,16,32,50,Dimensity 9300,5000,6.78,"1,09,999",15.52,61,September
+Oppo,A40 128GB,4,5,50,Qualcomm Snapdragon 6s Gen 1,"5,100",6.67,"19,999",12.46,71,March
+Oppo,A40 256GB,6,5,50,Qualcomm Snapdragon 6s Gen 1,"5,100",6.67,"22,999",4.81,98,September
+Realme,GT 7 Pro 128GB,12,16,50,Qualcomm Snapdragon 8 Elite,"6,500",6.78,"59,999",8.52,62,November
+Realme,GT 7 Pro 256GB,16,16,50,Qualcomm Snapdragon 8 Elite,"6,500",6.78,"65,999",19.48,91,March
+Realme,13+ 5G 128GB,8,16,50,MediaTek Dimensity 7200,"5,000",6.5,"22,999",9.89,52,December
+Realme,13+ 5G 256GB,8,16,50,MediaTek Dimensity 7200,"5,000",6.5,"24,999",3.79,71,August
+Realme,13 5G 128GB,6,16,50,MediaTek Dimensity 6100+,"5,000",6.6,"18,999",29.97,75,November
+Realme,13 5G 256GB,8,16,50,MediaTek Dimensity 6100+,"5,000",6.6,"20,999",22.49,93,July
+Realme,13 Pro 5G 128GB,8,16,50,Qualcomm Snapdragon 7s Gen 2,"5,200",6.7,"27,999",32.84,89,January
+Realme,13 Pro 5G 256GB,12,16,50,Qualcomm Snapdragon 7s Gen 2,"5,200",6.7,"29,999",19.92,59,July
+Realme,13 Pro+ 5G 256GB,12,32,50,Qualcomm Snapdragon 7+ Gen 2,"5,500",6.78,"34,999",11.89,50,April
+Realme,13 Pro+ 5G 512GB,16,32,50,Qualcomm Snapdragon 7+ Gen 2,"5,500",6.78,"36,999",24.65,96,August
+Realme,P1 Speed 5G 128GB,8,16,64,MediaTek Dimensity 8100,"5,100",6.7,"19,999",34.79,75,January
+Realme,P1 Speed 5G 256GB,12,16,64,MediaTek Dimensity 8100,"5,100",6.7,"21,999",37.65,82,July
+Realme,P2 Pro 5G 256GB,12,32,50,Qualcomm Snapdragon 7+ Gen 3,"5,500",6.78,"32,999",2.19,69,January
+Realme,P2 Pro 5G 512GB,16,32,50,Qualcomm Snapdragon 7+ Gen 3,"5,500",6.78,"34,999",32.74,94,June
+Realme,P1 5G 128GB,6,16,50,MediaTek Dimensity 6100+,"5,000",6.6,"16,999",20.42,55,November
+Realme,P1 5G 256GB,8,16,50,MediaTek Dimensity 6100+,"5,000",6.6,"18,999",15.85,83,August
+Realme,P1 Pro 5G 128GB,8,16,64,Qualcomm Snapdragon 7s Gen 1,"5,200",6.7,"22,999",2.55,63,September
+Realme,P1 Pro 5G 256GB,12,16,64,Qualcomm Snapdragon 7s Gen 1,"5,200",6.7,"24,999",20.57,86,September
+Realme,Narzo 70 Turbo 5G 128GB,8,16,50,MediaTek Dimensity 810,"5,000",6.6,"19,999",1.15,70,January
+Realme,Narzo 70 Turbo 5G 256GB,8,16,50,MediaTek Dimensity 810,"5,000",6.6,"21,999",39.5,93,September
+Realme,Narzo N61 128GB,6,16,50,MediaTek Helio G99,"5,000",6.5,"14,999",33.91,74,September
+Realme,Narzo N63 128GB,6,16,50,MediaTek Helio G88,"5,000",6.5,"13,999",39.73,63,December
+Realme,Narzo N65 5G 128GB,8,16,50,MediaTek Dimensity 700,"5,000",6.6,"17,999",33.15,69,April
+Realme,Narzo 70 5G 128GB,8,16,50,MediaTek Dimensity 810,"5,200",6.6,"19,499",13.65,85,October
+Realme,C75 128GB,6,8,50,MediaTek Helio G85,"5,000",6.6,"13,999",47.54,70,September
+Realme,C75 256GB,8,8,50,MediaTek Helio G85,"5,000",6.6,"15,999",0.22,66,April
+Realme,C61 128GB,4,8,50,Unisoc T612,"5,000",6.5,"11,999",32.25,53,May
+Realme,C67 128GB,6,8,50,MediaTek Helio G88,"5,000",6.6,"14,999",25.9,82,April
+Realme,C67 256GB,8,8,50,MediaTek Helio G88,"5,000",6.6,"16,999",9.95,65,September
+Realme,C65 128GB,6,8,50,Qualcomm Snapdragon 680,"5,000",6.6,"13,999",1.02,57,June
+Realme,C65 256GB,8,8,50,Qualcomm Snapdragon 680,"5,000",6.6,"15,999",13.15,79,March
+Realme,C63 128GB,6,8,50,MediaTek Helio G85,"5,000",6.6,"13,499",25.7,88,April
+Realme,Note 60x 128GB,6,16,50,MediaTek Dimensity 6100+,"5,200",6.6,"17,999",26.24,95,March
+Realme,Note 60 128GB,6,16,50,MediaTek Dimensity 810,"5,200",6.6,"18,999",36.44,59,April
+Realme,Note 60 256GB,8,16,50,MediaTek Dimensity 810,"5,200",6.6,"20,999",30.28,89,February
+Realme,Note 50 128GB,6,16,50,MediaTek Helio G99,"5,000",6.5,"15,999",31.24,58,June
+Realme,GT 7 128GB,8,16,50,Qualcomm Snapdragon 8 Gen 2,"5,200",6.8,"47,999",21.65,67,January
+Realme,GT 7 256GB,12,16,50,Qualcomm Snapdragon 8 Gen 2,"5,200",6.8,"53,999",30.02,97,January
+Realme,Neo 7 128GB,8,16,64,MediaTek Dimensity 8200,"5,000",6.7,"30,999",37.67,69,February
+Realme,Neo 7 256GB,12,16,64,MediaTek Dimensity 8200,"5,000",6.7,"36,999",46.82,77,April
+Realme,P2 Pro 5G 128GB,8,16,50,MediaTek Dimensity 9200,"5,100",6.7,"32,999",20.69,56,October
+Realme,P2 Pro 5G 256GB,12,16,50,MediaTek Dimensity 9200,"5,100",6.7,"38,999",7.99,78,August
+Realme,TechLife Pad Neo 64GB,4,8,8,MediaTek Helio G85,"7,200",10.5,"20,999",3.31,95,September
+Realme,TechLife Pad Neo 128GB,6,8,8,MediaTek Helio G85,"7,200",10.5,"22,999",26.94,86,October
+Xiaomi,Xiaomi 15 Pro 256GB,12,32,50,Snapdragon 8 Elite,"6,100",6.73,"89,999",30.54,88,April
+Xiaomi,Xiaomi 15 Pro 512GB,16,32,50,Snapdragon 8 Elite,"6,100",6.73,"99,999",18.83,94,November
+Xiaomi,Xiaomi 15 Pro 1TB,16,32,50,Snapdragon 8 Elite,"6,100",6.73,"1,09,999",10.98,95,September
+Xiaomi,Xiaomi 15 256GB,12,32,50,Snapdragon 8 Elite,"5,400",6.36,"79,999",0.53,50,October
+Xiaomi,Xiaomi 15 512GB,16,32,50,Snapdragon 8 Elite,"5,400",6.36,"89,999",32.09,53,August
+Xiaomi,Xiaomi 14T Pro 256GB,12,32,50,Dimensity 9300+,"5,000",6.67,"74,999",25.62,55,September
+Xiaomi,Xiaomi 14T Pro 512GB,12,32,50,Dimensity 9300+,"5,000",6.67,"84,999",29.22,90,October
+Xiaomi,Xiaomi 14T Pro 1TB,12,32,50,Dimensity 9300+,"5,000",6.67,"94,999",49.67,90,August
+Xiaomi,Xiaomi 14T 256GB,12,32,50,Dimensity 8300-Ultra,"5,000",6.67,"69,999",24.36,69,October
+Xiaomi,Xiaomi 14T 512GB,12,32,50,Dimensity 8300-Ultra,"5,000",6.67,"79,999",25.97,69,May
+Xiaomi,Redmi Note 14 Pro+ 5G 128GB,8,16,200,Snapdragon 7s Gen 3,"5,110",6.67,"29,999",9.45,79,June
+Xiaomi,Redmi Note 14 Pro+ 5G 256GB,12,16,200,Snapdragon 7s Gen 3,"5,110",6.67,"32,999",37.51,61,September
+Xiaomi,Redmi Note 14 Pro+ 5G 512GB,16,16,200,Snapdragon 7s Gen 3,"5,110",6.67,"35,999",25.11,54,January
+Xiaomi,Redmi Note 14 Pro 5G 128GB,8,16,108,MediaTek Dimensity 7300-Ultra,"5,500",6.67,"27,999",5.74,65,May
+Xiaomi,Redmi Note 14 Pro 5G 256GB,12,16,108,MediaTek Dimensity 7300-Ultra,"5,500",6.67,"30,999",34.78,86,August
+Xiaomi,Redmi Note 14 Pro 4G 128GB,6,16,108,Qualcomm Snapdragon 732G,"5,000",6.67,"24,999",42.54,85,April
+Xiaomi,Redmi Note 14 Pro 4G 256GB,8,16,108,Qualcomm Snapdragon 732G,"5,000",6.67,"27,999",28.02,82,September
+Xiaomi,Redmi Note 14 5G 128GB,6,16,50,MediaTek Dimensity 7025-Ultra,"5,000",6.67,"21,999",46.31,83,February
+Xiaomi,Redmi Note 14 5G 256GB,8,16,50,MediaTek Dimensity 7025-Ultra,"5,000",6.67,"24,999",47.7,95,February
+Xiaomi,Redmi Note 14 4G 128GB,4,16,50,Qualcomm Snapdragon 680,"5,000",6.67,"18,999",7.02,56,August
+Xiaomi,Redmi Note 14 4G 256GB,6,16,50,Qualcomm Snapdragon 680,"5,000",6.67,"21,999",42.64,56,June
+Xiaomi,Redmi 14C 5G 64GB,4,8,50,MediaTek Dimensity 700,"5,000",6.5,"14,999",36.62,51,March
+Xiaomi,Redmi 14C 5G 128GB,6,8,50,MediaTek Dimensity 700,"5,000",6.5,"16,999",24.69,70,November
+Motorola,Edge 50 Fusion 128GB,8,32,50,Snapdragon 7 Gen 1,"5,000",6.7,"29,999",45.42,61,July
+Motorola,Edge 50 Fusion 256GB,12,32,50,Snapdragon 7 Gen 1,"5,000",6.7,"34,999",47.77,64,October
+Motorola,Edge 50 Pro 128GB,8,50,50,Snapdragon 7 Gen 3,"4,500",6.7,"34,999",3.9,62,June
+Motorola,Edge 50 Pro 256GB,12,50,50,Snapdragon 7 Gen 3,"4,500",6.7,"39,999",18.32,73,November
+Motorola,One Vision 3 128GB,6,25,48,Exynos 9609,"3,500",6.3,"19,999",26.64,67,May
+Motorola,One Vision 3 256GB,8,25,48,Exynos 9609,"3,500",6.3,"22,999",38.89,51,May
+Motorola,Edge 50 Lite 128GB,6,32,64,Snapdragon 695,"5,000",6.7,"27,999",12.18,96,February
+Motorola,Edge 50 Lite 256GB,8,32,64,Snapdragon 695,"5,000",6.7,"29,999",34.54,99,February
+Motorola,Moto G75 5G 128GB,8,16,50,Snapdragon 6 Gen 3,"5,000",6.78,"34,999",0.58,99,May
+Motorola,Moto G75 5G 256GB,8,16,50,Snapdragon 6 Gen 3,"5,000",6.78,"39,999",4.49,58,June
+Motorola,Moto S50 128GB,8,32,64,MediaTek Dimensity 8100,"4,500",6.7,"29,999",47.48,58,October
+Motorola,Moto S50 256GB,12,32,64,MediaTek Dimensity 8100,"4,500",6.7,"34,999",46.96,84,January
+Motorola,Edge 50 Neo 256GB,8,32,50,MediaTek Dimensity 7300,"4,310",6.4,"39,999",33.34,50,April
+Motorola,Edge 50 Neo 512GB,12,32,50,MediaTek Dimensity 7300,"4,310",6.4,"44,999",33.79,61,October
+Motorola,Moto G55 128GB,8,16,50,MediaTek Dimensity 7025,"5,000",6.49,"26,999",12.63,86,August
+Motorola,Moto G55 256GB,8,16,50,MediaTek Dimensity 7025,"5,000",6.49,"29,999",16.15,95,October
+Motorola,Moto G35 128GB,4,16,50,Unisoc T760,"5,000",6.72,"18,999",37.04,92,January
+Motorola,Moto G35 256GB,8,16,50,Unisoc T760,"5,000",6.72,"22,999",39.13,71,July
+Motorola,Moto G45 128GB,6,16,50,Snapdragon 6s Gen 3,"5,000",6.5,"22,999",41.38,85,October
+Motorola,Moto G45 256GB,8,16,50,Snapdragon 6s Gen 3,"5,000",6.5,"26,999",33.48,73,June
+Motorola,Edge 50 256GB,8,32,50,Snapdragon 7s Gen 2,"4,700",6.7,"44,999",45.52,88,March
+Motorola,Edge 50 512GB,12,32,50,Snapdragon 7s Gen 2,"4,700",6.7,"49,999",38.05,90,July
+Motorola,Razr 50 Ultra 512GB,12,32,50,Snapdragon 8+ Gen 1,"4,000",6.9,"99,999",1.9,70,September
+Motorola,Razr 50 256GB,8,32,50,Snapdragon 7 Gen 1,"3,800",6.7,"79,999",38.78,76,March
+Motorola,Moto G85 128GB,8,32,50,Snapdragon 6s Gen 3,"5,000",6.67,"29,999",6.6,59,January
+Motorola,Moto G85 256GB,12,32,50,Snapdragon 6s Gen 3,"5,000",6.67,"34,999",15.91,50,August
+Motorola,S50 Neo 256GB,8,32,50,MediaTek Dimensity 7200,"4,300",6.5,"26,999",36.94,65,February
+Motorola,S50 Neo 512GB,12,32,50,MediaTek Dimensity 7200,"4,300",6.5,"29,999",28.91,92,June
+Motorola,Moto E14 64GB,4,8,13,Unisoc T606,"5,000",6.5,"11,999",19.25,88,April
+Motorola,Moto E14 128GB,4,8,13,Unisoc T606,"5,000",6.5,"13,999",38.16,81,March
+Motorola,Edge 256GB,8,32,50,Snapdragon 7s Gen 2,"4,700",6.7,"44,999",1.48,63,May
+Motorola,Edge 512GB,12,32,50,Snapdragon 7s Gen 2,"4,700",6.7,"49,999",8.2,73,April
+Motorola,Moto X50 Ultra 512GB,12,60,200,Snapdragon 8 Gen 3,"5,000",6.9,"1,19,999",38.55,56,August
+Motorola,Moto G Stylus 5G 256GB,6,16,50,Snapdragon 6 Gen 1,"5,000",6.8,"26,999",21.59,61,June
+Motorola,Moto G Stylus 5G 512GB,8,16,50,Snapdragon 6 Gen 1,"5,000",6.8,"29,999",12.17,54,September
+Motorola,Edge 50 Ultra 512GB,12,60,200,Snapdragon 8 Gen 3,"5,000",6.9,"1,19,999",48.58,87,January
+Huawei,Pura 70,12,13,50,Kirin 9010,"4,900",6.8,"84,999",2.3,90,May
+Huawei,Pura 70 Pro,12,13,50,Kirin 9010,"5,050",6.8,"99,999",4.54,78,May
+Huawei,Pura 70 Pro+,12,13,50,Kirin 9010,"5,050",6.8,"1,14,999",26.62,69,May
+Huawei,Pura 70 Ultra,16,13,50,Kirin 9010,"5,200",6.8,"1,29,999",10.62,56,March
+Huawei,Mate 70,12,13,50,Kirin 9010,"4,900",6.7,"89,999",45.13,86,October
+Huawei,Mate 70 Pro,12,13,50,Kirin 9010,"5,000",6.8,"1,04,999",8.86,72,April
+Huawei,Mate 70 Pro+,12,13,50,Kirin 9010,"5,000",6.8,"1,19,999",33.1,50,February
+Huawei,Mate X6,12,8,50,Kirin 9010,"4,800",7.93,"2,49,999",11.83,94,December
+Huawei,Nova 12,8,60,50,Kirin 9000S,"4,500",6.7,"44,999",37.82,80,January
+Huawei,Nova 12 Pro,8,60,50,Kirin 9000S,"4,500",6.78,"54,999",32.62,84,January
+Huawei,Mate XT 256GB,12,13,50,Kirin 9010,"5,000",7.92,"2,59,999",14.57,74,November
+Huawei,Mate XT 512GB,12,13,50,Kirin 9010,"5,000",7.92,"2,74,999",8.61,76,November
+Huawei,Nova 13 256GB,8,50,50,Kirin 9000S,"4,600",6.7,"47,999",45.53,56,April
+Huawei,Nova 13 512GB,8,50,50,Kirin 9000S,"4,600",6.7,"54,999",12.18,61,December
+Huawei,Nova 13 Pro 256GB,8,60,50,Kirin 9000S,"4,600",6.78,"59,999",43.51,60,May
+Huawei,Nova 13 Pro 512GB,8,60,50,Kirin 9000S,"4,600",6.78,"67,999",15.45,64,October
+Sony,Xperia 1 VI 256GB,12,12,48,Snapdragon 8 Gen 3,"5,000",6.5,"1,29,999",2.08,86,January
+Sony,Xperia 5 VI 128GB,8,12,48,Snapdragon 8 Gen 3,"5,000",6.1,"99,999",14.8,78,February
+Sony,Xperia 10 VI 128GB,6,8,48,Snapdragon 7 Gen 1,"5,000",6.1,"59,999",18.67,78,August
+Huawei,MatePad Pro 12.2 512GB,12,16,13,Kirin 9000S,"10,100",12.2,"49,990",0.47,85,January
+Huawei,MatePad Pro 13.2 512GB,12,16,13,Kirin 9000S,"10,100",13.2,"58,590",40.57,58,February
+Google,Pixel 8a 128GB,8,10.5,64,Google Tensor G3,"4,385",6.1,"49,999",26.49,90,April
+Google,Pixel 9 128GB,8,10.8,50,Google Tensor G4,"4,600",6.3,"74,999",46.62,55,April
+Google,Pixel 9 Pro 256GB,12,10.8,50,Google Tensor G4,"5,050",6.7,"1,09,999",44.39,54,October
+Google,Pixel 9 Pro XL 512GB,16,10.8,50,Google Tensor G4,"5,250",6.8,"1,29,999",42.43,88,September
+Google,Pixel 9 Pro Fold 512GB,16,10.8,50,Google Tensor G4,"5,500",7.6,"1,79,999",11.81,96,November
+Tecno,Spark Go 1S 64GB,4,8,13,MediaTek Helio A22,"5,000",6.6,"9,999",39.16,69,August
+Tecno,Megapad 11 256GB,8,13,50,MediaTek G99,"8,000",11,"29,999",34.69,79,March
+Tecno,Pop 9 4G 64GB,3,5,8,Unisoc SC9863A,"5,000",6.52,"7,499",49.53,52,April
+Tecno,Megapad 128GB,6,12,50,MediaTek Helio G80,"7,500",10.9,"24,999",18.16,63,March
+Tecno,Camon 30S 256GB,8,32,50,MediaTek Dimensity 810,"5,200",6.8,"39,999",19.82,69,August
+Tecno,Spark 30C 5G 128GB,6,16,50,MediaTek Dimensity 6100+,"5,000",6.6,"14,999",38.78,62,June
+Tecno,Spark 30 5G 128GB,6,16,50,MediaTek Dimensity 6020,"5,000",6.6,"16,999",5.98,80,June
+Tecno,Pop 9 64GB,3,5,8,Unisoc SC9832E,"5,000",6.52,"6,999",3.48,66,May
+Tecno,Spark 30 Pro 256GB,8,32,50,MediaTek Helio G99,"5,200",6.8,"19,999",44.72,67,December
+Tecno,Spark 30 128GB,4,16,50,MediaTek Helio G85,"5,000",6.6,"12,999",30.25,75,August
+Tecno,Phantom V Fold2 512GB,12,32,64,MediaTek Dimensity 9200+,"5,500",7.85,"1,69,999",41.95,54,February
+Tecno,Phantom V Flip2 256GB,8,32,50,MediaTek Dimensity 8050,"4,300",6.9,"79,999",37.38,78,December
+Tecno,Pova 6 Neo 5G 256GB,8,16,50,MediaTek Dimensity 810,"6,000",6.8,"29,999",1.01,56,December
+Tecno,Spark 30C 128GB,4,16,50,MediaTek Helio G85,"5,000",6.6,"11,999",43.11,55,May
+Tecno,Spark Go 1 64GB,3,5,8,Unisoc SC9863A,"5,000",6.52,"7,499",28.15,82,October
+Tecno,Camon 30S Pro 512GB,12,50,108,MediaTek Dimensity 9200,"5,200",6.9,"79,999",33.66,90,March
+Tecno,Spark 20P 128GB,4,16,50,MediaTek Helio G85,"5,000",6.6,"13,999",16.05,96,November
+Tecno,Spark 20 Pro 5G 256GB,8,32,50,MediaTek Dimensity 810,"5,200",6.8,"24,999",48.59,59,May
+Tecno,Pova 6 Neo 256GB,8,16,50,MediaTek Helio G99,"6,000",6.8,"22,999",43.53,50,August
+Tecno,Camon 30 Premier 512GB,12,50,108,MediaTek Dimensity 9200,"5,200",6.9,"89,999",26.09,55,June
+Tecno,Camon 30 Pro 512GB,12,50,64,MediaTek Dimensity 8200,"5,200",6.8,"64,999",9.54,71,September
+Tecno,Camon 30 5G 256GB,8,32,50,MediaTek Dimensity 810,"5,000",6.7,"39,999",13.54,87,May
+Tecno,Camon 30 128GB,6,32,50,MediaTek Helio G99,"5,000",6.7,"29,999",32.59,87,February
+Tecno,Pova 6 Pro 512GB,12,32,64,MediaTek Dimensity 8100,"6,000",6.9,"79,999",7.07,83,February
+Tecno,Spark 20 Pro+ 256GB,8,32,50,MediaTek Helio G99,"5,200",6.8,"19,999",13.94,86,January
+Tecno,Spark 20 Pro 128GB,6,16,50,MediaTek Helio G85,"5,000",6.6,"14,999",46.03,51,June
+Tecno,Spark 20 128GB,4,16,50,MediaTek Helio G85,"5,000",6.6,"12,999",29.74,61,December
+Tecno,Spark 20C 128GB,4,16,50,MediaTek Helio G85,"5,000",6.6,"11,999",44.04,52,February
+Tecno,Spark Go 2024 64GB,3,5,8,Unisoc SC9863A,"5,000",6.52,"7,499",18.61,67,June
+Tecno,Pop 8 64GB,3,5,8,Unisoc SC9832E,"5,000",6.52,"6,999",0.29,82,September
+Tecno,Camon 20s Pro 5G 512GB,12,50,108,MediaTek Dimensity 9200,"5,200",6.9,"79,999",26.66,93,February
+Tecno,Camon 20s Pro 256GB,12,50,108,MediaTek Dimensity 810,"5,200",6.9,"59,999",27.15,96,October
+Tecno,Camon 20s 256GB,8,32,50,MediaTek Helio G99,"5,000",6.7,"34,999",13.59,76,October
+Tecno,Camon 20 Premier 512GB,12,50,108,MediaTek Dimensity 8200,"5,200",6.8,"74,999",20.13,98,August
+Tecno,Camon 20 Pro 5G 256GB,8,32,50,MediaTek Dimensity 810,"5,000",6.7,"39,999",48.21,78,October
+Tecno,Camon 20 Pro 128GB,6,32,50,MediaTek Helio G99,"5,000",6.7,"29,999",21.18,90,September
+Tecno,Camon 20 128GB,6,32,50,MediaTek Helio G99,"5,000",6.7,"29,999",7.86,90,February
+Tecno,Pova 5G 512GB,8,32,50,MediaTek Dimensity 900,"6,000",6.9,"54,999",37,56,October
+Tecno,Pova 5 256GB,8,16,50,MediaTek Helio G99,"6,000",6.8,"24,999",26.1,89,July
+Infinix,Xpad,6,8,13,MediaTek Helio G99,"7,000",10.1,"21,999",26.84,77,January
+Infinix,Xpad 5G,8,16,50,MediaTek Dimensity 810,"8,000",10.4,"29,999",6.34,99,July
+Infinix,Xpad Lite,4,5,8,Unisoc T606,"6,000",9.7,"14,999",18.69,52,December
+Infinix,Xpad Pro,12,32,50,MediaTek Dimensity 9200,"9,000",11,"39,999",3.06,75,August
+Infinix,Hot 50,6,8,50,MediaTek Helio G85,"5,000",6.78,"14,999",47.16,80,June
+Infinix,Hot 50i,4,8,50,Unisoc T606,"5,000",6.6,"12,499",32.39,87,November
+Infinix,Hot 50 5G,8,16,50,MediaTek Dimensity 810,"5,200",6.78,"18,999",42.63,74,December
+Infinix,Hot 50 Pro,8,16,50,MediaTek Helio G99,"5,000",6.8,"17,999",15.51,78,April
+Infinix,Hot 50 Pro+,12,32,108,MediaTek Dimensity 9200,"5,300",6.9,"24,999",30.96,77,September
+Infinix,GT 20 Pro,12,32,108,MediaTek Dimensity 8200,"5,500",6.9,"32,999",6.83,78,February
+Infinix,Note 40X 5G,8,32,108,MediaTek Dimensity 7200,"5,200",6.8,"23,999",32.73,54,February
+Infinix,Note 40S,8,32,50,MediaTek Helio G99,"5,000",6.78,"16,999",44.07,74,June
+Infinix,Note 40 5G,8,32,108,MediaTek Dimensity 8100,"5,200",6.8,"19,999",21.33,69,January
+Infinix,Note 40 Pro 5G,12,32,108,MediaTek Dimensity 9000,"5,300",6.8,"27,999",16.14,54,January
+Infinix,Note 40 Racing Edition,12,32,108,MediaTek Dimensity 9200,"5,500",6.9,"32,999",6.52,52,February
+Infinix,Zero 40,12,50,108,MediaTek Dimensity 8200,"5,000",6.78,"24,999",33.8,84,January
+Infinix,Zero 40 5G,12,50,108,MediaTek Dimensity 8200,"5,000",6.78,"27,999",8.73,68,December
+Infinix,Zero Flip,8,32,108,Qualcomm Snapdragon 778G,"4,500",6.7,"32,999",35.3,94,November
+Infinix,Note 40,8,32,108,MediaTek Helio G99,"5,000",6.78,"17,999",38.85,51,June
+Infinix,Note 40 Pro,12,32,108,MediaTek Dimensity 8100,"5,000",6.78,"22,999",23.79,85,June
+Honor,Magic6,8,12,50,Qualcomm Snapdragon 8 Gen 3,"5,200",6.81,"89,999",37.13,91,March
+Honor,Magic6 Pro,12,12,50,Qualcomm Snapdragon 8 Gen 3,"5,500",6.81,"1,09,999",42.27,90,October
+Honor,Magic6 Ultimate,16,12,50,Qualcomm Snapdragon 8 Gen 3,"5,550",6.81,"1,29,999",16.8,85,May
+Honor,Magic V2,12,16,50,Qualcomm Snapdragon 8 Gen 2,"5,000",7.92,"1,59,999",10.58,79,May
+Honor,Magic7,8,12,50,Qualcomm Snapdragon 8 Gen 3,"5,200",6.81,"89,999",41.03,79,October
+Honor,Magic7 Pro,12,12,50,Qualcomm Snapdragon 8 Gen 3,"5,500",6.81,"1,09,999",8.7,74,July
+Honor,Magic7 Ultimate,16,12,50,Qualcomm Snapdragon 8 Gen 3,"5,550",6.81,"1,29,999",40.54,98,August
+Honor,Magic V3,12,16,50,Qualcomm Snapdragon 8 Gen 2,"5,000",7.92,"1,59,999",33.32,76,July
+Honor,Pad 9,8,8,13,Qualcomm Snapdragon 6 Gen 1,"8,300",12.1,"34,999",35.1,51,May
+Honor,Pad 9 Pro,12,8,13,MediaTek Dimensity 8100,"9,000",12.6,"44,999",31.42,70,November
+Honor,MagicPad 2,16,12,16,Qualcomm Snapdragon 8 Gen 2,"10,500",13.2,"74,999",32.41,60,November
+Honor,Pad X9 Pro,8,8,13,Qualcomm Snapdragon 7s Gen 2,"8,000",11.6,"29,999",32.14,92,March
+Honor,Pad V9,8,8,13,MediaTek Dimensity 9000,"8,500",12.1,"54,999",3.61,90,July
+Honor,Pad GT Pro,12,12,16,Qualcomm Snapdragon 8 Gen 3,"10,500",13.5,"84,999",33.53,53,April
+Honor,Pad X10,6,5,8,Qualcomm Snapdragon 685,"8,850",12.1,"29,999",24.99,69,November
+Honor,Pad X10 Pro,8,8,13,Qualcomm Snapdragon 7s Gen 2,"9,000",12.6,"39,999",6.08,71,May
+Honor,MagicPad 3,12,12,16,Qualcomm Snapdragon 8 Gen 3,"10,500",13,"64,999",13.15,93,February
+Honor,Pad V10,8,8,13,MediaTek Dimensity 9000,"8,500",12.1,"54,999",49.93,72,October
+POCO,X6 128GB,6,16,64,MediaTek Dimensity 8100,5000,6.67,"21,999",11.98,89,May
+POCO,X6 Pro 256GB,8,20,108,MediaTek Dimensity 8300,5000,6.67,"24,999",20.62,65,February
+POCO,F6 128GB,6,20,64,Snapdragon 8 Gen 2,5000,6.67,"34,999",9.19,54,December
+POCO,F6 Pro 256GB,8,20,108,Snapdragon 8+ Gen 2,5160,6.67,"44,999",9.88,89,December
+POCO,C65 64GB,4,5,50,MediaTek Helio G85,5000,6.5,"10,999",36.89,65,January
+POCO,M7 5G 128GB,6,8,50,MediaTek Dimensity 7025,5110,6.67,"15,999",1.61,76,November
+Poco,Pad 5G 128GB,8,8,8,Snapdragon 7s Gen 2,"10,000",12.1,"23,999",12.73,83,April
+Poco,Pad 5G 256GB,8,8,8,Snapdragon 7s Gen 2,"10,000",12.1,"25,999",23.89,72,August
+Samsung,Galaxy Z Fold6 256GB,12,10,50,Snapdragon 8 Gen 3,4400,7.6,"1,64,999",48.01,50,September
+Samsung,Galaxy Z Fold6 512GB,12,10,50,Snapdragon 8 Gen 3,4400,7.6,"1,76,999",18.62,77,November
+Samsung,Galaxy Z Fold6 1TB,12,10,50,Snapdragon 8 Gen 3,4400,7.6,"2,00,999",1.36,87,May
+Oppo,Reno13 F 4G 256GB,8,32,50,MediaTek Helio G100,5800,6.67,"44,999",8.72,94,August
+Oppo,Reno13 F 256GB,8,32,50,MediaTek Helio G100,5800,6.67,"44,999",21.19,62,March
+Oppo,Reno13 Pro 512GB,12,50,50,MediaTek Dimensity 8350,5800,6.83,"69,999",7.57,60,June
+Oppo,Reno13 256GB,12,50,50,MediaTek Dimensity 8350,5600,6.59,"54,999",3.51,97,May
+Realme,14 Pro+ 5G 256GB,12,16,50,Qualcomm Snapdragon 7s Gen 3,"6,000",6.83,"34,999",5.68,58,February
+Realme,14 Pro+ 5G 512GB,12,16,50,Qualcomm Snapdragon 7s Gen 3,"6,000",6.83,"36,999",11.45,82,November
+Realme,14 Pro 5G 128GB,8,16,50,MediaTek Dimensity 7300 Energy,"5,800",6.7,"29,999",42,56,January
+Realme,14 Pro 5G 256GB,8,16,50,MediaTek Dimensity 7300 Energy,"5,800",6.7,"31,999",16.16,69,April
+Realme,14x 5G 128GB,6,16,48,Qualcomm Snapdragon 7s Gen 2,"5,500",6.6,"24,999",34.36,62,June
+Realme,14x 5G 256GB,8,16,48,Qualcomm Snapdragon 7s Gen 2,"5,500",6.6,"26,999",48.26,85,December
+POCO,X7 128GB,6,16,64,MediaTek Dimensity 8200,5000,6.67,"22,999",36.11,75,November
+POCO,X7 Pro 256GB,8,20,108,MediaTek Dimensity 8400,6000,6.67,"27,999",17.2,71,May
